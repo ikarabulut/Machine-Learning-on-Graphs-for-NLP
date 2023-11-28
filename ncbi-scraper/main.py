@@ -5,7 +5,7 @@ import json
 from typing import List
 from bs4 import BeautifulSoup
 
-from models.article import Article
+from models.article import Article, ArticleList
 
 mode = sys.argv[1]
 I = 0
@@ -18,7 +18,9 @@ user_agent = "scrapping_script/1.0"
 headers = {'User-Agent': user_agent}
 
 if mode == "abstract":
-    article_models: List[Article] = []
+    article_models = ArticleList
+    article_models.articles = []
+
     job_elements = soup.find_all("a", class_="arc-issue", href=True)
     publication_urls = []
     # loop through each publication
@@ -34,11 +36,18 @@ if mode == "abstract":
         for link in publicationlink_divs:
             publication_link = link.find("a", class_="view",  href=True)
             href = publication_link["href"]
+            print(ROOT_URL + href)
             article = requests.get(ROOT_URL + href, headers=headers)
             article_soup = BeautifulSoup(
                 article.content, "html.parser")
-            abstract = article_soup.find("div", id="abs0010")
-            abstract_text = abstract.find_all("p", class_="p p-first-last")
+
+            try:
+                abstract = article_soup.find("div", id="abs0010")
+                abstract_text = abstract.find_all("p", class_="p p-first-last")
+            except AttributeError:
+                abstract = article_soup.find("div", id="body-a.g")
+                abstract_text = abstract.find_all(
+                    "div", {"id": lambda L: L and L.startswith('P0')})
             abstract_text_sb = ""
             for text in abstract_text:
                 abstract_text_sb += text.text
@@ -52,9 +61,8 @@ if mode == "abstract":
             article_model.cite = cite_json["nlm"]["format"]
 
             print(f"ID:: {article_model.pmid} created")
-            article_models.append(article_model)
-    for article in article_models:
-        print(article.pmid)
+            article_models.articles.append(article_model)
+    print(json.dumps(article_models, indent=2))
 else:
     job_elements = soup.find_all("a", class_="arc-issue", href=True)
     publication_urls = []

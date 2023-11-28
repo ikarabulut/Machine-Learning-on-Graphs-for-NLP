@@ -1,4 +1,5 @@
 from pydantic import BaseModel
+from typing import List
 
 
 class Article(BaseModel):
@@ -6,3 +7,7 @@ class Article(BaseModel):
     location: str
     cite: str
     abstract: str
+
+
+class ArticleList(BaseModel):
+    articles: List[Article] = []
