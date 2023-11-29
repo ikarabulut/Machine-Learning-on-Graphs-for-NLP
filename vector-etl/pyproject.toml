@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "vector-etl"
+version = "0.1.0"
+description = ""
+authors = ["ikarabulut <i.karabulut93@gmail.com>"]
+readme = "README.md"
+packages = [{include = "vector_etl"}]
+
+[tool.poetry.dependencies]
+python = ">=3.11,<3.12"
+pinecone-client = "^2.2.4"
+llama-index = "^0.9.9"
+boto3 = "^1.33.3"
+nbib = "^0.3.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
