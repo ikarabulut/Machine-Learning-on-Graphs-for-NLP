@@ -12,6 +12,7 @@ S3Reader = download_loader("S3Reader")
 
 bucket = "ncbi-safetyandhealth-nbib"
 key = "PMC10024226.nbib"
+pinecone_key = os.getenv['PINECONE_API_KEY']
 
 # paginator = client.get_paginator('list_objects')
 # page_iterator = paginator.paginate(Bucket=bucket)
@@ -27,7 +28,7 @@ refs = nbib.read(documents[0].text)
 ref_abstract = refs[0]["abstract"]
 
 
-pinecone.init(api_key=os.environ['PINECONE_API_KEY'],
+pinecone.init(api_key=pinecone_key,
               environment="gcp-starter")
 
 try:
