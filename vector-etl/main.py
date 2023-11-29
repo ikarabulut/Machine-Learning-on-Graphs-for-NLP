@@ -4,7 +4,10 @@ import nbib
 from llama_index.vector_stores import PineconeVectorStore
 import pinecone
 import os
+from dotenv import load_dotenv
 
+
+load_dotenv()
 
 client = boto3.client("s3")
 S3Reader = download_loader("S3Reader")
