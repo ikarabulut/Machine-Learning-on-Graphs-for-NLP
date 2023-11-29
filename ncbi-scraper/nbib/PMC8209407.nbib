@@ -1,0 +1,74 @@
+PMID- 34178392
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220424
+IS  - 2093-7911 (Print)
+IS  - 2093-7997 (Electronic)
+IS  - 2093-7911 (Linking)
+VI  - 12
+IP  - 2
+DP  - 2021 Jun
+TI  - A Hierarchical Solution Approach for Occupational Health and Safety Inspectors' 
+      Task Assignment Problem.
+PG  - 154-166
+LID - 10.1016/j.shaw.2021.01.004 [doi]
+AB  - BACKGROUND: Occupational health and safety (OHS) is a significant interest of all 
+      governments to prevent workplace hazards. Although appropriate legislation and 
+      regulations are essentials for the protection of workers, they are solely not 
+      enough. Application of them in practice should be secured by an efficient 
+      inspection system. Fundamental components of an inspection system are inspectors 
+      and their audit tasks. Maintaining the fair balanced task assignment among 
+      inspectors strictly enhances the efficiency of the overall system. METHODS: This 
+      study proposes a two-phased goal programming approach for OHS inspectors' task 
+      assignments and presents a case study. RESULTS: The solution approach gives the 
+      balanced assignment of inspectors to the workplaces in different cities of the 
+      country in the planning period. The obtained schedule takes into account the 
+      distances covered by the work places and the number of the workplaces' employees 
+      to be audited and pays attention to the human factors by considering the 
+      preferences of the inspectors. The comparisons between the obtained optimal 
+      schedule and the implemented one that is produced manually show that the approach 
+      not only maintains the technical requirements of the problem, but also provides 
+      social and physical balance to the task assignment. CONCLUSION: Both the approach 
+      and the application study are expected to offer fruitful inspirations in the area 
+      of safety management and policy and they provide a good guide for social policy 
+      and organizational aspects in the field of OHS inspectors' task assignment.
+CI  - © 2021 The Authors.
+FAU - Arikan, Feyzan
+AU  - Arikan F
+AD  - Faculty of Engineering, Department of Industrial Engineering, Gazi University, 
+      06570 Maltepe, Ankara, Turkey.
+FAU - Sozen, Songul K
+AU  - Sozen SK
+AD  - Ministry of Labour and Social Security, Labour Inspection Board, 06520 Ankara, 
+      Turkey.
+LA  - eng
+PT  - Journal Article
+DEP - 20210126
+PL  - Korea (South)
+TA  - Saf Health Work
+JT  - Safety and health at work
+JID - 101542940
+PMC - PMC8209407
+OTO - NOTNLM
+OT  - Legislation and regulations
+OT  - Mathematical modeling
+OT  - Non-technical human skills
+OT  - Organizational aspects
+OT  - Safety management and policy
+COIS- The authors declare that they have no known competing financial interests or 
+      personal relationships that could have appeared to influence the work reported in 
+      this paper.
+EDAT- 2021/06/29 06:00
+MHDA- 2021/06/29 06:01
+CRDT- 2021/06/28 06:01
+PHST- 2020/02/06 00:00 [received]
+PHST- 2020/08/14 00:00 [revised]
+PHST- 2021/01/14 00:00 [accepted]
+PHST- 2021/06/28 06:01 [entrez]
+PHST- 2021/06/29 06:00 [pubmed]
+PHST- 2021/06/29 06:01 [medline]
+AID - S2093-7911(21)00004-4 [pii]
+AID - 10.1016/j.shaw.2021.01.004 [doi]
+PST - ppublish
+SO  - Saf Health Work. 2021 Jun;12(2):154-166. doi: 10.1016/j.shaw.2021.01.004. Epub 
+      2021 Jan 26.

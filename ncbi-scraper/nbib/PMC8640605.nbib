@@ -1,0 +1,80 @@
+PMID- 34900368
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220429
+IS  - 2093-7911 (Print)
+IS  - 2093-7997 (Electronic)
+IS  - 2093-7911 (Linking)
+VI  - 12
+IP  - 4
+DP  - 2021 Dec
+TI  - Critical Hazard Factors in the Risk Assessments of Industrial Robots: Causal 
+      Analysis and Case Studies.
+PG  - 496-504
+LID - 10.1016/j.shaw.2021.07.010 [doi]
+AB  - BACKGROUND: With the increasing demand for industrial robots and the "noncontact" 
+      trend, it is an appropriate point in time to examine whether risk assessments 
+      conducted for robot operations are performed effectively to identify and 
+      eliminate the risks of injury or harm to operators. This study discusses why 
+      robot accidents resulting in harm to operators occur repetitively despite 
+      implementing control measures and proposes corrective actions for risk 
+      assessments. METHODS: This study collected 369 operator-injured robot accidents 
+      in Korea over the last decade and reconstructed them into the mechanism of 
+      injury, work being undertaken, and bodily location of the injury. Then, through 
+      the techniques of Systematic Cause Analysis Technique (SCAT) and Root Cause 
+      Analysis (RCA), this study analyzed the root and direct causes of robot accidents 
+      that had occurred. Causes identified included physical hazards and complex 
+      combinations of hazards, such as psychological, organizational, and systematic 
+      errors. The requirements of risk assessments regarding robot operations were 
+      examined, and three case studies of robot-involved tasks were investigated. The 
+      three assessments presented were: camera module processing, electrical discharge 
+      machining, and a panel-flipping robot installation. RESULTS: After conducting RCA 
+      and comparing the three assessments, it was found that two-thirds of 
+      injury-occurring from robot accidents, causative factors included psychological 
+      and personal traits of robot operators. However, there were no evaluations of the 
+      identifications of personal aspects in the three assessment cases. CONCLUSION: 
+      Therefore, it was concluded that personal factors of operators, which had been 
+      overlooked in risk assessments so far, need to be included in future risk 
+      assessments on robot operations.
+CI  - © 2021 The Authors.
+FAU - Lee, Kangdon
+AU  - Lee K
+AD  - Department of Safety Engineering, Seoul National University of Science and 
+      Technology, 232, Gongneung-ro, Nowon-gu, Seoul, 01811, Republic of Korea.
+FAU - Shin, Jaeho
+AU  - Shin J
+AD  - School of Mechanical and Automotive Engineering, Kyungil University, 50, 
+      Gamasil-Gil, Hayang-Eup, Gyeongsan-si, Gyeongbuk, 38428, Republic of Korea.
+FAU - Lim, Jae-Yong
+AU  - Lim JY
+AD  - Department of Safety Engineering, Seoul National University of Science and 
+      Technology, 232, Gongneung-ro, Nowon-gu, Seoul, 01811, Republic of Korea.
+LA  - eng
+PT  - Journal Article
+DEP - 20210722
+PL  - Korea (South)
+TA  - Saf Health Work
+JT  - Safety and health at work
+JID - 101542940
+PMC - PMC8640605
+OTO - NOTNLM
+OT  - Human factor
+OT  - Human-robot collaboration
+OT  - Psychology
+OT  - Risk assessment
+OT  - Root cause analysis
+COIS- The authors declare no conflict of interest.
+EDAT- 2021/12/14 06:00
+MHDA- 2021/12/14 06:01
+CRDT- 2021/12/13 18:03
+PHST- 2021/04/19 00:00 [received]
+PHST- 2021/07/14 00:00 [revised]
+PHST- 2021/07/15 00:00 [accepted]
+PHST- 2021/12/13 18:03 [entrez]
+PHST- 2021/12/14 06:00 [pubmed]
+PHST- 2021/12/14 06:01 [medline]
+AID - S2093-7911(21)00063-9 [pii]
+AID - 10.1016/j.shaw.2021.07.010 [doi]
+PST - ppublish
+SO  - Saf Health Work. 2021 Dec;12(4):496-504. doi: 10.1016/j.shaw.2021.07.010. Epub 
+      2021 Jul 22.

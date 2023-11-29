@@ -1,0 +1,78 @@
+PMID- 35936210
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220809
+IS  - 2093-7911 (Print)
+IS  - 2093-7997 (Electronic)
+IS  - 2093-7911 (Linking)
+VI  - 13
+IP  - 1
+DP  - 2022 Mar
+TI  - Internet of Things-Based Command Center to Improve Emergency Response in 
+      Underground Mines.
+PG  - 40-50
+LID - 10.1016/j.shaw.2021.10.003 [doi]
+AB  - BACKGROUND: Underground mines have several hazards that could lead to serious 
+      consequences if they come into effect. Acquiring, evaluating, and using the 
+      real-time data from the atmospheric monitoring system and miner's positional 
+      information is crucial in deciding the best course of action. METHODS: A 
+      graphical user interface-based software is developed that uses an AutoCAD-based 
+      mine map, real-time atmospheric monitoring system, and miners' positional 
+      information to guide on the shortest route to mine exit and other locations 
+      within the mine, including the refuge chamber. Several algorithms are implemented 
+      to enhance the visualization of the program and guide the miners through the 
+      shortest routes. The information relayed by the sensors and communicated by other 
+      personnel are collected, evaluated, and used by the program in proposing the best 
+      course of action. RESULTS: The program was evaluated using two case studies 
+      involving rescue relating to elevated carbon monoxide levels and increased 
+      temperature simulating fire scenarios. The program proposed the shortest path 
+      from the miner's current location to the exit of the mine, nearest refuge 
+      chamber, and the phone location. The real-time sensor information relayed by all 
+      the sensors was collected in a comma-separated value file. CONCLUSION: This 
+      program presents an important tool that aggregates information relayed by sensors 
+      to propose the best rescue strategy. The visualization capability of the program 
+      allows the operator to observe all the information on a screen and monitor the 
+      rescue in real time. This program permits the incorporation of additional sensors 
+      and algorithms to further customize the tool.
+CI  - © 2021 The Authors.
+FAU - Jha, Ankit
+AU  - Jha A
+AD  - Department of Mining Engineering and Management, SDSM&T, Rapid City, SD, 57701, 
+      USA.
+FAU - Verburg, Alex
+AU  - Verburg A
+AD  - Department of Mining Engineering and Management, SDSM&T, Rapid City, SD, 57701, 
+      USA.
+FAU - Tukkaraja, Purushotham
+AU  - Tukkaraja P
+AD  - Department of Mining Engineering and Management, SDSM&T, Rapid City, SD, 57701, 
+      USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20211016
+PL  - Korea (South)
+TA  - Saf Health Work
+JT  - Safety and health at work
+JID - 101542940
+PMC - PMC9346949
+OTO - NOTNLM
+OT  - Atmospheric monitoring system
+OT  - Emergency response
+OT  - Internet of things
+OT  - Sensors
+OT  - Underground mining
+COIS- The authors discloses no conflict of interest.
+EDAT- 2022/08/09 06:00
+MHDA- 2022/08/09 06:01
+CRDT- 2022/08/08 03:44
+PHST- 2021/08/02 00:00 [received]
+PHST- 2021/08/11 00:00 [revised]
+PHST- 2021/10/11 00:00 [accepted]
+PHST- 2022/08/08 03:44 [entrez]
+PHST- 2022/08/09 06:00 [pubmed]
+PHST- 2022/08/09 06:01 [medline]
+AID - S2093-7911(21)00082-2 [pii]
+AID - 10.1016/j.shaw.2021.10.003 [doi]
+PST - ppublish
+SO  - Saf Health Work. 2022 Mar;13(1):40-50. doi: 10.1016/j.shaw.2021.10.003. Epub 2021 
+      Oct 16.

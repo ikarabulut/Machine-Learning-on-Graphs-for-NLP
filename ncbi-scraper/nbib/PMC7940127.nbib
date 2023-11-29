@@ -1,0 +1,64 @@
+PMID- 33732523
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20231111
+IS  - 2093-7911 (Print)
+IS  - 2093-7997 (Electronic)
+IS  - 2093-7911 (Linking)
+VI  - 12
+IP  - 1
+DP  - 2021 Mar
+TI  - Finding Pluto: An Analytics-Based Approach to Safety Data Ecosystems.
+PG  - 1-9
+LID - 10.1016/j.shaw.2020.09.010 [doi]
+AB  - This review article addresses the role of safety professionals in the diffusion 
+      strategies for predictive analytics for safety performance. The article explores 
+      the models, definitions, roles, and relationships of safety professionals in 
+      knowledge application, access, management, and leadership in safety analytics. 
+      The article addresses challenges safety professionals face when integrating 
+      safety analytics in organizational settings in four operations areas: 
+      application, technology, management, and strategy. A review of existing 
+      conventional safety data sources (safety data, internal data, external data, and 
+      context data) is briefly summarized as a baseline. For each of these data 
+      sources, the article points out how emerging analytic data sources (such as 
+      Industry 4.0 and the Internet of Things) broaden and challenge the scope of work 
+      and operational roles throughout an organization. In doing so, the article 
+      defines four perspectives on the integration of predictive analytics into 
+      organizational safety practice: the programmatic perspective, the technological 
+      perspective, the sociocultural perspective, and knowledge-organization 
+      perspective. The article posits a four-level, organizational 
+      knowledge-skills-abilities matrix for analytics integration, indicating key 
+      organizational capacities needed for each area. The work shows the benefits of 
+      organizational alignment, clear stakeholder categorization, and the ability to 
+      predict future safety performance.
+CI  - © 2020 The Author.
+FAU - Barker, Thomas T
+AU  - Barker TT
+AD  - The University of Alberta, Faculty of Extension, Canada.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20201001
+PL  - Korea (South)
+TA  - Saf Health Work
+JT  - Safety and health at work
+JID - 101542940
+PMC - PMC7940127
+OTO - NOTNLM
+OT  - big data
+OT  - data science
+OT  - safety
+EDAT- 2021/03/19 06:00
+MHDA- 2021/03/19 06:01
+CRDT- 2021/03/18 06:49
+PHST- 2020/07/02 00:00 [received]
+PHST- 2020/09/14 00:00 [revised]
+PHST- 2020/09/21 00:00 [accepted]
+PHST- 2021/03/18 06:49 [entrez]
+PHST- 2021/03/19 06:00 [pubmed]
+PHST- 2021/03/19 06:01 [medline]
+AID - S2093-7911(20)30340-1 [pii]
+AID - 10.1016/j.shaw.2020.09.010 [doi]
+PST - ppublish
+SO  - Saf Health Work. 2021 Mar;12(1):1-9. doi: 10.1016/j.shaw.2020.09.010. Epub 2020 
+      Oct 1.

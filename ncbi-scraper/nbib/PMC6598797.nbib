@@ -1,0 +1,73 @@
+PMID- 31297282
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220409
+IS  - 2093-7911 (Print)
+IS  - 2093-7997 (Electronic)
+IS  - 2093-7911 (Linking)
+VI  - 10
+IP  - 2
+DP  - 2019 Jun
+TI  - Evaluation of Matrix Effects in Quantifying Microbial Secondary Metabolites in 
+      Indoor Dust Using Ultraperformance Liquid Chromatograph-Tandem Mass Spectrometer.
+PG  - 196-204
+LID - 10.1016/j.shaw.2018.12.004 [doi]
+AB  - BACKGROUND: Liquid chromatography-tandem mass spectrometry (LC-MSMS) for 
+      simultaneous analysis of multiple microbial secondary metabolites (MSMs) is 
+      potentially subject to interference by matrix components. METHODS: We examined 
+      potential matrix effects (MEs) in analyses of 31 MSMs using 
+      ultraperformance LC-MSMS. Twenty-one dust aliquots from three buildings (seven 
+      aliquots/building) were spiked with seven concentrations of each of the MSMs (6.2 
+      pg/μl-900 pg/μl) and then extracted. Another set of 21 aliquots were first 
+      extracted and then, the extract was spiked with the same concentrations. We added 
+      deepoxy-deoxynivalenol (DOM) to all aliquots as a universal internal standard. 
+      Ten microliters of the extract was injected into the ultraperformance LC-MSMS. ME 
+      was calculated by subtracting the percentage of the response of analyte in spiked 
+      extract to that in neat standard from 100. Spiked extract results were used to 
+      create a matrix-matched calibration (MMC) curve for estimating MSM concentration 
+      in dust spiked before extraction. RESULTS: Analysis of variance was used to 
+      examine effects of compound (MSM), building and concentration on response. MEs 
+      (range: 63.4%-99.97%) significantly differed by MSM (p < 0.01) and building 
+      (p < 0.05). Mean percent recoveries adjusted with DOM and the MMC method were 
+      246.3% (SD = 226.0) and 86.3% (SD = 70.7), respectively. CONCLUSION: We found 
+      that dust MEs resulted in substantial underestimation in quantifying MSMs and 
+      that DOM was not an optimal universal internal standard for the adjustment but 
+      that the MMC method resulted in more accurate and precise recovery compared with 
+      DOM. More research on adjustment methods for dust MEs in the simultaneous 
+      analyses of multiple MSMs using LC-MSMS is warranted.
+FAU - Jaderson, Mukhtar
+AU  - Jaderson M
+AD  - Health Effects Laboratory Division, National Institute for Occupational Safety 
+      and Health, Morgantown, WV, USA.
+FAU - Park, Ju-Hyeong
+AU  - Park JH
+AD  - Respiratory Health Division, National Institute for Occupational Safety and 
+      Health, Morgantown, WV, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20181221
+PL  - Korea (South)
+TA  - Saf Health Work
+JT  - Safety and health at work
+JID - 101542940
+PMC - PMC6598797
+OTO - NOTNLM
+OT  - Dust sample
+OT  - Mass spectrometry
+OT  - Matrix effect
+OT  - Microbial
+OT  - Secondary metabolite
+EDAT- 2019/07/13 06:00
+MHDA- 2019/07/13 06:01
+CRDT- 2019/07/13 06:00
+PHST- 2018/09/07 00:00 [received]
+PHST- 2018/11/30 00:00 [revised]
+PHST- 2018/12/14 00:00 [accepted]
+PHST- 2019/07/13 06:00 [entrez]
+PHST- 2019/07/13 06:00 [pubmed]
+PHST- 2019/07/13 06:01 [medline]
+AID - S2093-7911(18)30388-3 [pii]
+AID - 10.1016/j.shaw.2018.12.004 [doi]
+PST - ppublish
+SO  - Saf Health Work. 2019 Jun;10(2):196-204. doi: 10.1016/j.shaw.2018.12.004. Epub 
+      2018 Dec 21.

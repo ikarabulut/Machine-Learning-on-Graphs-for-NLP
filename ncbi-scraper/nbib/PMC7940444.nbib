@@ -1,0 +1,70 @@
+PMID- 33732528
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220421
+IS  - 2093-7911 (Print)
+IS  - 2093-7997 (Electronic)
+IS  - 2093-7911 (Linking)
+VI  - 12
+IP  - 1
+DP  - 2021 Mar
+TI  - Theoretical Model for Accident Prevention Based on Root Cause Analysis With Graph 
+      Theory.
+PG  - 42-50
+LID - 10.1016/j.shaw.2020.09.004 [doi]
+AB  - INTRODUCTION: Despite huge investments in new technology and transportation 
+      infrastructure, terrible accidents still remain a reality of traffic. METHODS: 
+      Severe traffic accidents were analyzed from four prevailing modes of today's 
+      transportations: sea, air, railway, and road. Main root causes of all four 
+      accidents were defined with implementation of the approach, based on Flanagan's 
+      critical incident technique. In accordance with Molan's Availability Humanization 
+      model (AH model), possible preventive or humanization interventions were defined 
+      with the focus on technology, environment, organization, and human factors. 
+      RESULTS: According to our analyses, there are significant similarities between 
+      accidents. Root causes of accidents, human behavioral patterns, and possible 
+      humanization measures were presented with rooted graphs. It is possible to create 
+      a generalized model graph, which is similar to rooted graphs, for identification 
+      of possible humanization measures, intended to prevent similar accidents in the 
+      future. Majority of proposed humanization interventions are focused on 
+      organization. Organizational interventions are effective in assurance of adequate 
+      and safe behavior. CONCLUSIONS: Formalization of root cause analysis with rooted 
+      graphs in a model offers possibility for implementation of presented methods in 
+      analysis of particular events. Implementation of proposed humanization measures 
+      in a particular analyzed situation is the basis for creation of safety culture.
+CI  - © 2020 The Authors.
+FAU - Molan, Gregor
+AU  - Molan G
+AD  - Comtrade, Letališka Cesta 29, Ljubljana, Slovenia.
+FAU - Molan, Marija
+AU  - Molan M
+AD  - University Medical Centre Ljubljana, Institute of Occupational, Traffic and 
+      Sports Medicine, Poljanski Nasip 58, Ljubljana, Slovenia.
+LA  - eng
+PT  - Journal Article
+DEP - 20200917
+PL  - Korea (South)
+TA  - Saf Health Work
+JT  - Safety and health at work
+JID - 101542940
+PMC - PMC7940444
+OTO - NOTNLM
+OT  - Accident preventions
+OT  - Behavior
+OT  - Graph partition
+OT  - Root cause analysis
+OT  - Safety
+COIS- No conflicts of interests.
+EDAT- 2021/03/19 06:00
+MHDA- 2021/03/19 06:01
+CRDT- 2021/03/18 06:49
+PHST- 2020/02/21 00:00 [received]
+PHST- 2020/07/25 00:00 [revised]
+PHST- 2020/09/06 00:00 [accepted]
+PHST- 2021/03/18 06:49 [entrez]
+PHST- 2021/03/19 06:00 [pubmed]
+PHST- 2021/03/19 06:01 [medline]
+AID - S2093-7911(20)30333-4 [pii]
+AID - 10.1016/j.shaw.2020.09.004 [doi]
+PST - ppublish
+SO  - Saf Health Work. 2021 Mar;12(1):42-50. doi: 10.1016/j.shaw.2020.09.004. Epub 2020 
+      Sep 17.

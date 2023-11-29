@@ -1,0 +1,85 @@
+PMID- 31890328
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220412
+IS  - 2093-7911 (Print)
+IS  - 2093-7997 (Electronic)
+IS  - 2093-7911 (Linking)
+VI  - 10
+IP  - 4
+DP  - 2019 Dec
+TI  - Calibration of Portable Particulate Matter-Monitoring Device using Web Query and 
+      Machine Learning.
+PG  - 452-460
+LID - 10.1016/j.shaw.2019.08.002 [doi]
+AB  - BACKGROUND: Monitoring and control of PM(2.5) are being recognized as key to 
+      address health issues attributed to PM(2.5). Availability of low-cost PM(2.5) 
+      sensors made it possible to introduce a number of portable PM(2.5) monitors based 
+      on light scattering to the consumer market at an affordable price. Accuracy of 
+      light scattering-based PM(2.5) monitors significantly depends on the method of 
+      calibration. Static calibration curve is used as the most popular calibration 
+      method for low-cost PM(2.5) sensors particularly because of ease of application. 
+      Drawback in this approach is, however, the lack of accuracy. METHODS: This study 
+      discussed the calibration of a low-cost PM(2.5)-monitoring device (PMD) to 
+      improve the accuracy and reliability for practical use. The proposed method is 
+      based on construction of the PM(2.5) sensor network using Message Queuing 
+      Telemetry Transport (MQTT) protocol and web query of reference measurement data 
+      available at government-authorized PM monitoring station (GAMS) in the republic 
+      of Korea. Four machine learning (ML) algorithms such as support vector machine, 
+      k-nearest neighbors, random forest, and extreme gradient boosting were used as 
+      regression models to calibrate the PMD measurements of PM(2.5). Performance of 
+      each ML algorithm was evaluated using stratified K-fold cross-validation, and a 
+      linear regression model was used as a reference. RESULTS: Based on the 
+      performance of ML algorithms used, regression of the output of the PMD to PM(2.5) 
+      concentrations data available from the GAMS through web query was effective. The 
+      extreme gradient boosting algorithm showed the best performance with a mean 
+      coefficient of determination (R(2)) of 0.78 and standard error of 5.0 μg/m(3), 
+      corresponding to 8% increase in R(2) and 12% decrease in root mean square error 
+      in comparison with the linear regression model. Minimum 100 hours of calibration 
+      period was found required to calibrate the PMD to its full capacity. Calibration 
+      method proposed poses a limitation on the location of the PMD being in the 
+      vicinity of the GAMS. As the number of the PMD participating in the sensor 
+      network increases, however, calibrated PMDs can be used as reference devices to 
+      nearby PMDs that require calibration, forming a calibration chain through MQTT 
+      protocol. CONCLUSIONS: Calibration of a low-cost PMD, which is based on 
+      construction of PM(2.5) sensor network using MQTT protocol and web query of 
+      reference measurement data available at a GAMS, significantly improves the 
+      accuracy and reliability of a PMD, thereby making practical use of the low-cost 
+      PMD possible.
+CI  - © 2019 The Authors.
+FAU - Loh, Byoung Gook
+AU  - Loh BG
+AD  - Department of Applied IT Engineering, Hansung University, Seoul, Republic of 
+      Korea.
+FAU - Choi, Gi Heung
+AU  - Choi GH
+AD  - Department of Mechanical Systems Engineering, Hansung University, Seoul, Republic 
+      of Korea.
+LA  - eng
+PT  - Journal Article
+DEP - 20190819
+PL  - Korea (South)
+TA  - Saf Health Work
+JT  - Safety and health at work
+JID - 101542940
+PMC - PMC6933201
+OTO - NOTNLM
+OT  - Calibration
+OT  - Machine learning
+OT  - Monitoring and control
+OT  - Particulate matter
+OT  - Web query
+EDAT- 2020/01/01 06:00
+MHDA- 2020/01/01 06:01
+CRDT- 2020/01/01 06:00
+PHST- 2019/05/08 00:00 [received]
+PHST- 2019/07/28 00:00 [revised]
+PHST- 2019/08/09 00:00 [accepted]
+PHST- 2020/01/01 06:00 [entrez]
+PHST- 2020/01/01 06:00 [pubmed]
+PHST- 2020/01/01 06:01 [medline]
+AID - S2093-7911(19)30281-1 [pii]
+AID - 10.1016/j.shaw.2019.08.002 [doi]
+PST - ppublish
+SO  - Saf Health Work. 2019 Dec;10(4):452-460. doi: 10.1016/j.shaw.2019.08.002. Epub 
+      2019 Aug 19.

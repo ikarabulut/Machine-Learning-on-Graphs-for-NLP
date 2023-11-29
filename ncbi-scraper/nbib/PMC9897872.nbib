@@ -1,0 +1,82 @@
+PMID- 36777106
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20230320
+IS  - 2093-7911 (Print)
+IS  - 2093-7997 (Electronic)
+IS  - 2093-7911 (Linking)
+VI  - 14
+IP  - 1
+DP  - 2023 Mar
+TI  - Associations between Poorer Mental Health with Work-Related Effort, Reward, and 
+      Overcommitment among a Sample of Formal US Solid Waste Workers during the 
+      COVID-19 Pandemic.
+PG  - 93-99
+LID - 10.1016/j.shaw.2023.01.004 [doi]
+AB  - BACKGROUND: Effort-reward imbalance (ERI) and overcommitment at work have been 
+      associated poorer mental health. However, nonlinear and nonadditive effects have 
+      not been investigated previously. METHODS: The association between effort, 
+      reward, and overcommitment with odds of poorer mental health was examined among a 
+      sample of 68 formal United States waste workers (87% male). Traditional, logistic 
+      regression and Bayesian Kernel machine regression (BKMR) modeling was conducted. 
+      Models controlled for age, education level, race, gender, union status, and 
+      physical health status. RESULTS: The traditional, logistic regression found only 
+      overcommitment was significantly associated with poorer mental health (IQR 
+      increase: OR = 6.7; 95% CI: 1.7 to 25.5) when controlling for effort and reward 
+      (or ERI alone). Results from the BKMR showed that a simultaneous IQR increase in 
+      higher effort, lower reward, and higher overcommitment was associated with 6.6 
+      (95% CI: 1.7 to 33.4) times significantly higher odds of poorer mental health. An 
+      IQR increase in overcommitment was associated with 5.6 (95% CI: 1.6 to 24.9) 
+      times significantly higher odds of poorer mental health when controlling for 
+      effort and reward. Higher effort and lower reward at work may not always be 
+      associated with poorer mental health but rather they may have an inverse, 
+      U-shaped relationship with mental health. No interaction between effort, reward, 
+      or overcommitment was observed. CONCLUSION: When taking into the consideration 
+      the relationship between effort, reward, and overcommitment, overcommitment may 
+      be most indicative of poorer mental health. Organizations should assess their 
+      workers' perceptions of overcommitment to target potential areas of improvement 
+      to enhance mental health outcomes.
+CI  - © 2023 Occupational Safety and Health Research Institute.
+FAU - Shkembi, Abas
+AU  - Shkembi A
+AD  - Department of Environmental Health Sciences, School of Public Health, University 
+      of Michigan, Ann Arbor, MI 48109, USA.
+FAU - Le, Aurora B
+AU  - Le AB
+AD  - Department of Environmental Health Sciences, School of Public Health, University 
+      of Michigan, Ann Arbor, MI 48109, USA.
+FAU - Neitzel, Richard L
+AU  - Neitzel RL
+AD  - Department of Environmental Health Sciences, School of Public Health, University 
+      of Michigan, Ann Arbor, MI 48109, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20230204
+PL  - Korea (South)
+TA  - Saf Health Work
+JT  - Safety and health at work
+JID - 101542940
+PMC - PMC9897872
+OTO - NOTNLM
+OT  - Bayesian Kernel machine regression (BKMR)
+OT  - Effort–reward imbalance
+OT  - Mental health
+OT  - Psychosocial factors
+OT  - Waste workers
+COIS- The authors declare no conflict of interest. The funders had no role in the 
+      design of the study; in the collection, analyses, or interpretation of data; in 
+      the writing of the manuscript, or in the decision to publish the results.
+EDAT- 2023/02/14 06:00
+MHDA- 2023/02/14 06:01
+CRDT- 2023/02/13 03:30
+PHST- 2022/07/25 00:00 [received]
+PHST- 2022/12/01 00:00 [revised]
+PHST- 2023/01/29 00:00 [accepted]
+PHST- 2023/02/14 06:00 [pubmed]
+PHST- 2023/02/14 06:01 [medline]
+PHST- 2023/02/13 03:30 [entrez]
+AID - S2093-7911(23)00004-5 [pii]
+AID - 10.1016/j.shaw.2023.01.004 [doi]
+PST - ppublish
+SO  - Saf Health Work. 2023 Mar;14(1):93-99. doi: 10.1016/j.shaw.2023.01.004. Epub 2023 
+      Feb 4.

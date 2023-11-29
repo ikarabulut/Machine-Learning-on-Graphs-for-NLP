@@ -1,0 +1,119 @@
+PMID- 31297287
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20231012
+IS  - 2093-7911 (Print)
+IS  - 2093-7997 (Electronic)
+IS  - 2093-7911 (Linking)
+VI  - 10
+IP  - 2
+DP  - 2019 Jun
+TI  - Insights Into Emissions and Exposures From Use of Industrial-Scale Additive 
+      Manufacturing Machines.
+PG  - 229-236
+LID - 10.1016/j.shaw.2018.10.003 [doi]
+AB  - BACKGROUND: Emerging reports suggest the potential for adverse health effects 
+      from exposure to emissions from some additive manufacturing (AM) processes. There 
+      is a paucity of real-world data on emissions from AM machines in industrial 
+      workplaces and personal exposures among AM operators. METHODS: Airborne particle 
+      and organic chemical emissions and personal exposures were characterized using 
+      real-time and time-integrated sampling techniques in four manufacturing 
+      facilities using industrial-scale material extrusion and material jetting AM 
+      processes. RESULTS: Using a condensation nuclei counter, number-based particle 
+      emission rates (ERs) (number/min) from material extrusion AM machines ranged from 
+      4.1 × 10(10) (Ultem filament) to 2.2 × 10(11) [acrylonitrile butadiene styrene 
+      and polycarbonate filaments). For these same machines, total volatile organic 
+      compound ERs (μg/min) ranged from 1.9 × 10(4) (acrylonitrile butadiene styrene 
+      and polycarbonate) to 9.4 × 10(4) (Ultem). For the material jetting machines, the 
+      number-based particle ER was higher when the lid was open (2.3 × 10(10) 
+      number/min) than when the lid was closed (1.5-5.5 × 10(9) number/min); total 
+      volatile organic compound ERs were similar regardless of the lid position. Low 
+      levels of acetone, benzene, toluene, and m,p-xylene were common to both AM 
+      processes. Carbonyl compounds were detected; however, none were specifically 
+      attributed to the AM processes. Personal exposures to metals (aluminum and iron) 
+      and eight volatile organic compounds were all below National Institute for 
+      Occupational Safety and Health (NIOSH)-recommended exposure levels. CONCLUSION: 
+      Industrial-scale AM machines using thermoplastics and resins released particles 
+      and organic vapors into workplace air. More research is needed to understand 
+      factors influencing real-world industrial-scale AM process emissions and 
+      exposures.
+FAU - Stefaniak, A B
+AU  - Stefaniak AB
+AD  - National Institute for Occupational Safety and Health, Morgantown, WV, 26505, 
+      USA.
+FAU - Johnson, A R
+AU  - Johnson AR
+AD  - National Institute for Occupational Safety and Health, Morgantown, WV, 26505, 
+      USA.
+FAU - du Preez, S
+AU  - du Preez S
+AD  - North-West University, Occupational Hygiene and Health Research Initiative, 
+      Private Bag X6001, Potchefstroom, 2520, South Africa.
+FAU - Hammond, D R
+AU  - Hammond DR
+AD  - National Institute for Occupational Safety and Health, Cincinnati, OH, 45213, 
+      USA.
+FAU - Wells, J R
+AU  - Wells JR
+AD  - National Institute for Occupational Safety and Health, Morgantown, WV, 26505, 
+      USA.
+FAU - Ham, J E
+AU  - Ham JE
+AD  - National Institute for Occupational Safety and Health, Morgantown, WV, 26505, 
+      USA.
+FAU - LeBouf, R F
+AU  - LeBouf RF
+AD  - National Institute for Occupational Safety and Health, Morgantown, WV, 26505, 
+      USA.
+FAU - Martin, S B Jr
+AU  - Martin SB Jr
+AD  - National Institute for Occupational Safety and Health, Morgantown, WV, 26505, 
+      USA.
+FAU - Duling, M G
+AU  - Duling MG
+AD  - National Institute for Occupational Safety and Health, Morgantown, WV, 26505, 
+      USA.
+FAU - Bowers, L N
+AU  - Bowers LN
+AD  - National Institute for Occupational Safety and Health, Morgantown, WV, 26505, 
+      USA.
+FAU - Knepp, A K
+AU  - Knepp AK
+AD  - National Institute for Occupational Safety and Health, Morgantown, WV, 26505, 
+      USA.
+FAU - de Beer, D J
+AU  - de Beer DJ
+AD  - North-West University, Technology and Innovation Support Office, Private Bag 
+      X6001, Potchefstroom, 2520, South Africa.
+FAU - du Plessis, J L
+AU  - du Plessis JL
+AD  - North-West University, Occupational Hygiene and Health Research Initiative, 
+      Private Bag X6001, Potchefstroom, 2520, South Africa.
+LA  - eng
+PT  - Journal Article
+DEP - 20181109
+PL  - Korea (South)
+TA  - Saf Health Work
+JT  - Safety and health at work
+JID - 101542940
+PMC - PMC6598813
+OTO - NOTNLM
+OT  - Additive manufacturing
+OT  - Material extrusion
+OT  - Material jetting
+OT  - Ultrafine particles
+OT  - Volatile organic compounds
+EDAT- 2019/07/13 06:00
+MHDA- 2019/07/13 06:01
+CRDT- 2019/07/13 06:00
+PHST- 2018/07/23 00:00 [received]
+PHST- 2018/09/28 00:00 [revised]
+PHST- 2018/10/31 00:00 [accepted]
+PHST- 2019/07/13 06:00 [entrez]
+PHST- 2019/07/13 06:00 [pubmed]
+PHST- 2019/07/13 06:01 [medline]
+AID - S2093-7911(18)30282-8 [pii]
+AID - 10.1016/j.shaw.2018.10.003 [doi]
+PST - ppublish
+SO  - Saf Health Work. 2019 Jun;10(2):229-236. doi: 10.1016/j.shaw.2018.10.003. Epub 
+      2018 Nov 9.

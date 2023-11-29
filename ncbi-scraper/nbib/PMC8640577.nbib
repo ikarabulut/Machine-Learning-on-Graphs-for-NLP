@@ -1,0 +1,97 @@
+PMID- 34900362
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220429
+IS  - 2093-7911 (Print)
+IS  - 2093-7997 (Electronic)
+IS  - 2093-7911 (Linking)
+VI  - 12
+IP  - 4
+DP  - 2021 Dec
+TI  - Estimation of Lead Exposure Intensity by Industry Using Nationwide Exposure 
+      Databases in Korea.
+PG  - 439-444
+LID - 10.1016/j.shaw.2021.07.008 [doi]
+AB  - BACKGROUND: In a previous study, we estimated exposure prevalence and the number 
+      of workers exposed to carcinogens by industry in Korea. The present study aimed 
+      to evaluate the optimal exposure intensity indicators of airborne lead exposure 
+      by comparing to blood lead measurements for the future development of the 
+      carcinogen exposure intensity database. METHODS: Data concerning airborne lead 
+      measurements and blood lead levels were collected from nationwide occupational 
+      exposure databases, compiled between 2015 and 2016. Summary statistics, including 
+      the arithmetic mean (AM), geometric mean (GM), and 95th percentile level (X95) 
+      were calculated by industry both for airborne lead and blood lead measurements. 
+      Since many measurements were below the limits of detection (LODs), the simple 
+      replacement with half of the LOD and maximum likelihood estimation (MLE) methods 
+      were used for statistical analysis. For examining the optimal exposure indicator 
+      of airborne lead exposure, blood lead levels were used as reference data for 
+      subsequent rank correlation analyses. RESULTS: A total of 19,637 airborne lead 
+      measurements and 32,848 blood lead measurements were used. In general, simple 
+      replacement showed a higher correlation than MLE. The results showed that AM and 
+      X95 using simple replacement could be used as optimal exposure intensity 
+      indicators, while X95 showed better correlations than AM in industries with 20 or 
+      more measurements. CONCLUSION: Our results showed that AM or X95 could be 
+      potential candidates for exposure intensity indicators in the Korean carcinogen 
+      exposure database. Especially, X95 is an optimal indicator where there are enough 
+      measurements to compute X95 values.
+CI  - © 2021 The Authors.
+FAU - Koh, Dong-Hee
+AU  - Koh DH
+AD  - Department of Occupational and Environmental Medicine, International St. Mary's 
+      Hospital, Catholic Kwandong University, Incheon, Republic of Korea.
+FAU - Park, Ju-Hyun
+AU  - Park JH
+AD  - Department of Statistics, Dongguk University, Seoul, Republic of Korea.
+FAU - Lee, Sang-Gil
+AU  - Lee SG
+AD  - Occupational Safety and Health Research Institute, Korea Occupational Safety and 
+      Health Agency, Ulsan, Republic of Korea.
+FAU - Kim, Hwan-Cheol
+AU  - Kim HC
+AD  - Department of Occupational and Environmental Medicine, Inha University, Incheon, 
+      Republic of Korea.
+FAU - Jung, Hyejung
+AU  - Jung H
+AD  - Department of Occupational and Environmental Medicine, International St. Mary's 
+      Hospital, Catholic Kwandong University, Incheon, Republic of Korea.
+FAU - Kim, Inah
+AU  - Kim I
+AD  - Department of Occupational and Environmental Medicine, College of Medicine, 
+      Hanyang University, Seoul, Republic of Korea.
+FAU - Choi, Sangjun
+AU  - Choi S
+AD  - Department of Preventive Medicine, College of Medicine, The Catholic University 
+      of Korea, Seoul, Republic of Korea.
+FAU - Park, Donguk
+AU  - Park D
+AD  - Department of Environmental Health, Korea National Open University, Seoul, 
+      Republic of Korea.
+LA  - eng
+PT  - Journal Article
+DEP - 20210717
+PL  - Korea (South)
+TA  - Saf Health Work
+JT  - Safety and health at work
+JID - 101542940
+PMC - PMC8640577
+OTO - NOTNLM
+OT  - Cancer
+OT  - Carcinogen
+OT  - Exposure
+OT  - Occupational cancer
+OT  - Occupational exposure
+COIS- The authors declare that they have no conflict of interests.
+EDAT- 2021/12/14 06:00
+MHDA- 2021/12/14 06:01
+CRDT- 2021/12/13 18:03
+PHST- 2021/03/12 00:00 [received]
+PHST- 2021/06/27 00:00 [revised]
+PHST- 2021/07/12 00:00 [accepted]
+PHST- 2021/12/13 18:03 [entrez]
+PHST- 2021/12/14 06:00 [pubmed]
+PHST- 2021/12/14 06:01 [medline]
+AID - S2093-7911(21)00061-5 [pii]
+AID - 10.1016/j.shaw.2021.07.008 [doi]
+PST - ppublish
+SO  - Saf Health Work. 2021 Dec;12(4):439-444. doi: 10.1016/j.shaw.2021.07.008. Epub 
+      2021 Jul 17.

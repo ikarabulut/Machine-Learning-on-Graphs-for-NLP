@@ -1,0 +1,73 @@
+PMID- 28593076
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220330
+IS  - 2093-7911 (Print)
+IS  - 2093-7997 (Electronic)
+IS  - 2093-7911 (Linking)
+VI  - 8
+IP  - 2
+DP  - 2017 Jun
+TI  - Control of Industrial Safety Based on Dynamic Characteristics of a Safety 
+      Budget-Industrial Accident Rate Model in Republic of Korea.
+PG  - 189-197
+LID - 10.1016/j.shaw.2016.11.002 [doi]
+AB  - BACKGROUND: Despite the recent efforts to prevent industrial accidents in the 
+      Republic of Korea, the industrial accident rate has not improved much. Industrial 
+      safety policies and safety management are also known to be inefficient. This 
+      study focused on dynamic characteristics of industrial safety systems and their 
+      effects on safety performance in the Republic of Korea. Such dynamic 
+      characteristics are particularly important for restructuring of the industrial 
+      safety system. METHODS: The effects of damping and elastic characteristics of the 
+      industrial safety system model on safety performance were examined and feedback 
+      control performance was explained in view of cost and benefit. The implications 
+      on safety policies of restructuring the industrial safety system were also 
+      explored. RESULTS: A strong correlation between the safety budget and the 
+      industrial accident rate enabled modeling of an industrial safety system with 
+      these variables as the input and the output, respectively. A more effective and 
+      efficient industrial safety system could be realized by having weaker elastic 
+      characteristics and stronger damping characteristics in it. A substantial 
+      decrease in total social cost is expected as the industrial safety system is 
+      restructured accordingly. CONCLUSION: A simple feedback control with 
+      proportional-integral action is effective in prevention of industrial accidents. 
+      Securing a lower level of elastic industrial accident-driving energy appears to 
+      have dominant effects on the control performance compared with the damping effort 
+      to dissipate such energy. More attention needs to be directed towards physical 
+      and social feedbacks that have prolonged cumulative effects. Suggestions for 
+      further improvement of the safety system including physical and social feedbacks 
+      are also made.
+FAU - Choi, Gi Heung
+AU  - Choi GH
+AD  - Department of Mechanical Systems Engineering, Hansung University, Seoul, Republic 
+      of Korea.
+FAU - Loh, Byoung Gook
+AU  - Loh BG
+AD  - Department of Applied IT Engineering, Hansung University, Seoul, Republic of 
+      Korea.
+LA  - eng
+PT  - Journal Article
+DEP - 20161115
+PL  - Korea (South)
+TA  - Saf Health Work
+JT  - Safety and health at work
+JID - 101542940
+PMC - PMC5447418
+OTO - NOTNLM
+OT  - industrial accident rate
+OT  - industrial safety
+OT  - safety budget
+OT  - safety policy
+EDAT- 2017/06/09 06:00
+MHDA- 2017/06/09 06:01
+CRDT- 2017/06/09 06:00
+PHST- 2015/02/19 00:00 [received]
+PHST- 2016/10/31 00:00 [revised]
+PHST- 2016/11/01 00:00 [accepted]
+PHST- 2017/06/09 06:00 [entrez]
+PHST- 2017/06/09 06:00 [pubmed]
+PHST- 2017/06/09 06:01 [medline]
+AID - S2093-7911(16)30266-9 [pii]
+AID - 10.1016/j.shaw.2016.11.002 [doi]
+PST - ppublish
+SO  - Saf Health Work. 2017 Jun;8(2):189-197. doi: 10.1016/j.shaw.2016.11.002. Epub 
+      2016 Nov 15.

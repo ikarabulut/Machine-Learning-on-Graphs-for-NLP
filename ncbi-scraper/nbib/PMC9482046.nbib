@@ -1,0 +1,79 @@
+PMID- 36156865
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220928
+IS  - 2093-7911 (Print)
+IS  - 2093-7997 (Electronic)
+IS  - 2093-7911 (Linking)
+VI  - 13
+IP  - 3
+DP  - 2022 Sep
+TI  - Human Error Probability Determination in Blasting Process of Ore Mine Using a 
+      Hybrid of HEART and Best-Worst Methods.
+PG  - 326-335
+LID - 10.1016/j.shaw.2022.03.010 [doi]
+AB  - BACKGROUND: One of the important actions for enhancing human reliability in any 
+      industry is assessing human error probability (HEP). The HEART technique is a 
+      robust tool for calculating HEP in various industries. The traditional HEART has 
+      some weaknesses due to expert judgment. For these reasons, a hybrid model is 
+      presented in this study to integrate HEART with Best-Worst Method. MATERIALS 
+      METHOD: In this study, the blasting process in an iron ore mine was investigated 
+      as a case study. The proposed HEART-BWM was used to increase the sensitivity of 
+      APOA calculation. Then the HEP was calculated using conventional HEART formula. A 
+      consistency ratio was calculated using BWM. Finally, for verification of the 
+      HEART-BWM, HEP calculation was done by traditional HEART and HEART-BWM. RESULTS: 
+      In the view of determined HEPs, the results showed that the mean of HEP in the 
+      blasting of the iron ore process was 2.57E-01. Checking the full blast of all the 
+      holes after the blasting sub-task was the most dangerous task due to the highest 
+      HEP value, and it was found 9.646E-01. On the other side, obtaining a permit to 
+      receive and transport materials was the most reliable task, and the HEP was 
+      8.54E-04. CONCLUSION: The results showed a good consistency for the proposed 
+      technique. Comparing the two techniques confirmed that the BWM makes the 
+      traditional HEART faster and more reliable by performing the basic comparisons.
+CI  - © 2022 Occupational Safety and Health Research Institute.
+FAU - Mirzaei Aliabadi, Mostafa
+AU  - Mirzaei Aliabadi M
+AD  - Center of Excellence for Occupational Health, Occupational Health and Safety 
+      Research Center, Hamadan University of Medical Sciences, Hamadan, Iran.
+FAU - Mohammadfam, Iraj
+AU  - Mohammadfam I
+AD  - Center of Excellence for Occupational Health, Occupational Health and Safety 
+      Research Center, Hamadan University of Medical Sciences, Hamadan, Iran.
+FAU - Soltanian, Ali Reza
+AU  - Soltanian AR
+AD  - Modeling of Non Communicable Diseases Research Center, Department of 
+      Biostatistics, School of Public Health, Hamadan University of Medical Sciences, 
+      Hamadan, Iran.
+FAU - Najafi, Kamran
+AU  - Najafi K
+AD  - Occupational Health and Safety Research Center, Department of Occupational 
+      Health, School of Public Health, Hamadan University of Medical Sciences, Hamadan, 
+      Iran.
+LA  - eng
+PT  - Journal Article
+DEP - 20220331
+PL  - Korea (South)
+TA  - Saf Health Work
+JT  - Safety and health at work
+JID - 101542940
+PMC - PMC9482046
+OTO - NOTNLM
+OT  - Best-worst method
+OT  - HEART
+OT  - Human error probability
+OT  - Mining industry
+COIS- The authors confirm that they dont have any conflict of interests.
+EDAT- 2022/09/27 06:00
+MHDA- 2022/09/27 06:01
+CRDT- 2022/09/26 16:58
+PHST- 2021/11/23 00:00 [received]
+PHST- 2022/03/16 00:00 [revised]
+PHST- 2022/03/25 00:00 [accepted]
+PHST- 2022/09/26 16:58 [entrez]
+PHST- 2022/09/27 06:00 [pubmed]
+PHST- 2022/09/27 06:01 [medline]
+AID - S2093-7911(22)00051-8 [pii]
+AID - 10.1016/j.shaw.2022.03.010 [doi]
+PST - ppublish
+SO  - Saf Health Work. 2022 Sep;13(3):326-335. doi: 10.1016/j.shaw.2022.03.010. Epub 
+      2022 Mar 31.

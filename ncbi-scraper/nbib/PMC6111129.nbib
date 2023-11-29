@@ -1,0 +1,75 @@
+PMID- 30363081
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220321
+IS  - 2093-7911 (Print)
+IS  - 2093-7997 (Electronic)
+IS  - 2093-7911 (Linking)
+VI  - 9
+IP  - 1
+DP  - 2018 Mar
+TI  - Chemical Risk Assessment Screening Tool of a Global Chemical Company.
+PG  - 84-94
+LID - 10.1016/j.shaw.2017.06.012 [doi]
+AB  - BACKGROUND: This paper describes a simple-to-use and reliable screening tool 
+      called Critical Task Exposure Screening (CTES), developed by a chemical company. 
+      The tool assesses if the exposure to a chemical for a task is likely to be within 
+      acceptable levels. METHODS: CTES is a Microsoft Excel tool, where the inhalation 
+      risk score is calculated by relating the exposure estimate to the corresponding 
+      occupational exposure limit (OEL) or occupational exposure band (OEB). The 
+      inhalation exposure is estimated for tasks by preassigned ART1.5 activity classes 
+      and modifying factors. RESULTS: CTES requires few inputs. The toxicological data, 
+      including OELs, OEBs, and vapor pressure are read from a database. Once the 
+      substance is selected, the user specifies its concentration and then chooses the 
+      task description and its duration. CTES has three outputs that may trigger 
+      follow-up: (1) inhalation risk score; (2) identification of the skin hazard with 
+      the skin warnings for local and systemic adverse effects; and (3) status for 
+      carcinogenic, mutagenic, or reprotoxic effects. CONCLUSION: The tool provides an 
+      effective way to rapidly screen low-concern tasks, and quickly identifies certain 
+      tasks involving substances that will need further review with, nevertheless, the 
+      appropriate conservatism. This tool shows that the higher-tier ART1.5 inhalation 
+      exposure assessment model can be included effectively in a screening tool. After 
+      2 years of worldwide extensive use within the company, CTES is well perceived by 
+      the users, including the shop floor management, and it fulfills its target of 
+      screening tool.
+FAU - Tjoe-Nij, Evelyn
+AU  - Tjoe-Nij E
+AD  - ES4chem, Bennekom, The Netherlands.
+FAU - Rochin, Christophe
+AU  - Rochin C
+AD  - Solvay, HSE, Industrial Hygiene Corporate, Lyon, France.
+FAU - Berne, Nathalie
+AU  - Berne N
+AD  - Solvay, HSE, Industrial Hygiene Corporate, Lyon, France.
+FAU - Sassi, Alessandro
+AU  - Sassi A
+AD  - O-I Manufacturing, Wingles, France.
+FAU - Leplay, Antoine
+AU  - Leplay A
+AD  - Solvay, HSE, Industrial Hygiene Corporate, Lyon, France.
+LA  - eng
+PT  - Journal Article
+DEP - 20170714
+PL  - Korea (South)
+TA  - Saf Health Work
+JT  - Safety and health at work
+JID - 101542940
+PMC - PMC6111129
+OTO - NOTNLM
+OT  - occupational exposure
+OT  - risk assessment
+OT  - risk management
+EDAT- 2018/10/27 06:00
+MHDA- 2018/10/27 06:01
+CRDT- 2018/10/27 06:00
+PHST- 2016/05/23 00:00 [received]
+PHST- 2017/04/30 00:00 [revised]
+PHST- 2017/06/13 00:00 [accepted]
+PHST- 2018/10/27 06:00 [entrez]
+PHST- 2018/10/27 06:00 [pubmed]
+PHST- 2018/10/27 06:01 [medline]
+AID - S2093-7911(17)30314-1 [pii]
+AID - 10.1016/j.shaw.2017.06.012 [doi]
+PST - ppublish
+SO  - Saf Health Work. 2018 Mar;9(1):84-94. doi: 10.1016/j.shaw.2017.06.012. Epub 2017 
+      Jul 14.

@@ -1,0 +1,69 @@
+PMID- 34178394
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220424
+IS  - 2093-7911 (Print)
+IS  - 2093-7997 (Electronic)
+IS  - 2093-7911 (Linking)
+VI  - 12
+IP  - 2
+DP  - 2021 Jun
+TI  - Risk Assessment for Toluene Diisocyanate and Respiratory Disease Human Studies.
+PG  - 174-183
+LID - 10.1016/j.shaw.2020.12.002 [doi]
+AB  - BACKGROUND: Toluene diisocyanate (TDI) is a highly reactive chemical that causes 
+      sensitization and has also been associated with increased lung cancer. A risk 
+      assessment was conducted based on occupational epidemiologic estimates for 
+      several health outcomes. METHODS: Exposure and outcome details were extracted 
+      from published studies and a NIOSH Health Hazard Evaluation for new onset asthma, 
+      pulmonary function measurements, symptom prevalence, and mortality from lung 
+      cancer and respiratory disease. Summary exposure-response estimates were 
+      calculated taking into account relative precision and possible survivor selection 
+      effects. Attributable incidence of sensitization was estimated as were annual 
+      proportional losses of pulmonary function. Excess lifetime risks and benchmark 
+      doses were calculated. RESULTS: Respiratory outcomes exhibited strong survivor 
+      bias. Asthma/sensitization exposure response decreased with increasing 
+      facility-average TDI air concentration as did TDI-associated pulmonary 
+      impairment. In a mortality cohort where mean employment duration was less than 1 
+      year, survivor bias pre-empted estimation of lung cancer and respiratory disease 
+      exposure response. CONCLUSION: Controlling for survivor bias and assuming a 
+      linear dose-response with facility-average TDI concentrations, excess lifetime 
+      risks exceeding one per thousand occurred at about 2 ppt TDI for sensitization 
+      and respiratory impairment. Under alternate assumptions regarding stationary and 
+      cumulative effects, one per thousand excess risks were estimated at TDI 
+      concentrations of 10 - 30 ppt. The unexplained reported excess mortality from 
+      lung cancer and other lung diseases, if attributable to TDI or associated 
+      emissions, could represent a lifetime risk comparable to that of sensitization.
+FAU - Park, Robert M
+AU  - Park RM
+AD  - Division of Science Integration, Risk Evaluation Branch, National Institute for 
+      Occupational Safety and Health, Cincinnati, OH, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20201213
+PL  - Korea (South)
+TA  - Saf Health Work
+JT  - Safety and health at work
+JID - 101542940
+PMC - PMC8209360
+OTO - NOTNLM
+OT  - Asthma
+OT  - Lung cancer
+OT  - Pulmonary function
+OT  - Survivor bias
+OT  - Toluene diisocyanate
+COIS- The author declares no conflicts of interest.
+EDAT- 2021/06/29 06:00
+MHDA- 2021/06/29 06:01
+CRDT- 2021/06/28 06:01
+PHST- 2020/07/10 00:00 [received]
+PHST- 2020/12/08 00:00 [revised]
+PHST- 2020/12/09 00:00 [accepted]
+PHST- 2021/06/28 06:01 [entrez]
+PHST- 2021/06/29 06:00 [pubmed]
+PHST- 2021/06/29 06:01 [medline]
+AID - S2093-7911(20)30363-2 [pii]
+AID - 10.1016/j.shaw.2020.12.002 [doi]
+PST - ppublish
+SO  - Saf Health Work. 2021 Jun;12(2):174-183. doi: 10.1016/j.shaw.2020.12.002. Epub 
+      2020 Dec 13.

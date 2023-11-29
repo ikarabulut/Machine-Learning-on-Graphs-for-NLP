@@ -1,0 +1,106 @@
+PMID- 36579012
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20230103
+IS  - 2093-7911 (Print)
+IS  - 2093-7997 (Electronic)
+IS  - 2093-7911 (Linking)
+VI  - 13
+IP  - 4
+DP  - 2022 Dec
+TI  - A Pilot Establishment of the Job-Exposure Matrix of Lead Using the Standard 
+      Process Code of Nationwide Exposure Databases in Korea.
+PG  - 493-499
+LID - 10.1016/j.shaw.2022.09.001 [doi]
+AB  - BACKGROUND: The purpose of this study is to construct a job-exposure matrix for 
+      lead that accounts for industry and work processes within industries using a 
+      nationwide exposure database. METHODS: We used the work environment measurement 
+      data (WEMD) of lead monitored nationwide from 2015 to 2016. Industrial hygienists 
+      standardized the work process codes in the database to 37 standard process and 
+      extracted key index words for each process. A total of 37 standardized process 
+      codes were allocated to each measurement based on an automated key word search 
+      based on the degree of agreement between the measurement information and the 
+      standard process index. Summary statistics, including the arithmetic mean, 
+      geometric mean, and 95th percentile level (X95), was calculated according to 
+      industry, process, and industry process. Using statistical parameters of contrast 
+      and precision, we compared the similarity of exposure groups by industry, 
+      process, and industry process. RESULTS: The exposure intensity of lead was 
+      estimated for 583 exposure groups combined with 128 industry and 35 process. The 
+      X95 value of the "casting" process of the "manufacture of basic precious and 
+      non-ferrous metals" industry was 53.29 μg/m(3), exceeding the occupational 
+      exposure limit of 50 μg/m(3). Regardless of the limitation of the minimum number 
+      of samples in the exposure group, higher contrast was observed when the exposure 
+      groups were by industry process than by industry or process. CONCLUSION: We 
+      evaluated the exposure intensities of lead by combination of industry and 
+      process. The results will be helpful in determining more accurate information 
+      regarding exposure in lead-related epidemiological studies.
+CI  - © 2022 Occupational Safety and Health Research Institute.
+FAU - Park, Ju-Hyun
+AU  - Park JH
+AD  - Department of Statistics, Dongguk University, Seoul, Republic of Korea.
+FAU - Choi, Sangjun
+AU  - Choi S
+AD  - Graduate School of Public Health and Healthcare Management, The Catholic 
+      University of Korea, Seoul, Republic of Korea.
+FAU - Koh, Dong-Hee
+AU  - Koh DH
+AD  - Department of Occupational and Environmental Medicine, International St. Mary's 
+      Hospital, Catholic Kwandong University, Incheon, Republic of Korea.
+FAU - Lim, Dae Sung
+AU  - Lim DS
+AD  - Hansung Health and Safety Technology Co., Ltd., Daejeon, Republic of Korea.
+FAU - Park, Donguk
+AU  - Park D
+AD  - Department of Environmental Health, Korea National Open University, Seoul, 
+      Republic of Korea.
+FAU - Kim, Hwan-Cheol
+AU  - Kim HC
+AD  - Department of Occupational and Environmental Medicine, Inha University, Incheon, 
+      Republic of Korea.
+FAU - Lee, Sang-Gil
+AU  - Lee SG
+AD  - Occupational Safety and Health Research Institute, Korea Occupational Safety and 
+      Health Agency, Ulsan, Republic of Korea.
+FAU - Lee, Jihye
+AU  - Lee J
+AD  - Occupational Safety and Health Research Institute, Korea Occupational Safety and 
+      Health Agency, Ulsan, Republic of Korea.
+FAU - Lim, Ji Seon
+AU  - Lim JS
+AD  - Department of Statistics, Dongguk University, Seoul, Republic of Korea.
+FAU - Sung, Yeji
+AU  - Sung Y
+AD  - Graduate School of Public Health and Healthcare Management, The Catholic 
+      University of Korea, Seoul, Republic of Korea.
+FAU - Yoon Ko, Kyoung
+AU  - Yoon Ko K
+AD  - Graduate School of Public Health and Healthcare Management, The Catholic 
+      University of Korea, Seoul, Republic of Korea.
+LA  - eng
+PT  - Journal Article
+DEP - 20220909
+PL  - Korea (South)
+TA  - Saf Health Work
+JT  - Safety and health at work
+JID - 101542940
+PMC - PMC9772472
+OTO - NOTNLM
+OT  - Contrast
+OT  - Job-exposure matrix
+OT  - Lead
+OT  - Standard process
+COIS- Conflict of interest relevant to this article was not reported.
+EDAT- 2022/12/30 06:00
+MHDA- 2022/12/30 06:01
+CRDT- 2022/12/29 02:42
+PHST- 2022/01/04 00:00 [received]
+PHST- 2022/08/30 00:00 [revised]
+PHST- 2022/09/01 00:00 [accepted]
+PHST- 2022/12/29 02:42 [entrez]
+PHST- 2022/12/30 06:00 [pubmed]
+PHST- 2022/12/30 06:01 [medline]
+AID - S2093-7911(22)00137-8 [pii]
+AID - 10.1016/j.shaw.2022.09.001 [doi]
+PST - ppublish
+SO  - Saf Health Work. 2022 Dec;13(4):493-499. doi: 10.1016/j.shaw.2022.09.001. Epub 
+      2022 Sep 9.

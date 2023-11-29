@@ -1,0 +1,61 @@
+PMID- 28344840
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20201001
+IS  - 2093-7911 (Print)
+IS  - 2093-7997 (Electronic)
+IS  - 2093-7911 (Linking)
+VI  - 8
+IP  - 1
+DP  - 2017 Mar
+TI  - Simulation and Damage Analysis of an Accidental Jet Fire in a High-Pressure 
+      Compressed Pump Shelter.
+PG  - 42-48
+LID - 10.1016/j.shaw.2016.06.005 [doi]
+AB  - BACKGROUND: As one of the most frequently occurring accidents in a chemical 
+      plant, a fire accident may occur at any place where transfer or handling of 
+      combustible materials is routinely performed. METHODS: In particular, a jet fire 
+      incident in a chemical plant operated under high pressure may bring severe 
+      damage. To review this event numerically, Computational Fluid Dynamics 
+      methodology was used to simulate a jet fire at a pipe of a compressor under high 
+      pressure. RESULTS: For jet fire simulation, the Kemeleon FireEx Code was used, 
+      and results of this simulation showed that a structure and installations located 
+      within the shelter of a compressor received serious damage. CONCLUSION: The 
+      results confirmed that a jet fire may create a domino effect that could cause an 
+      accident aside from the secondary chemical accident.
+FAU - Jang, Chang Bong
+AU  - Jang CB
+AD  - Bureau of Occupational Safety Research, Occupational Safety and Health Research 
+      Institute, Korea Occupational Safety and Health Agency, Ulsan, Republic of Korea.
+FAU - Choi, Sang-Won
+AU  - Choi SW
+AD  - Bureau of Occupational Safety Research, Occupational Safety and Health Research 
+      Institute, Korea Occupational Safety and Health Agency, Ulsan, Republic of Korea.
+LA  - eng
+PT  - Journal Article
+DEP - 20160715
+PL  - Korea (South)
+TA  - Saf Health Work
+JT  - Safety and health at work
+JID - 101542940
+PMC - PMC5355529
+OTO - NOTNLM
+OT  - Kameleon FireEX
+OT  - computational fluid dynamics
+OT  - jet fire
+OT  - radiation
+OT  - temperature
+EDAT- 2017/03/28 06:00
+MHDA- 2017/03/28 06:01
+CRDT- 2017/03/28 06:00
+PHST- 2016/03/07 00:00 [received]
+PHST- 2016/05/25 00:00 [revised]
+PHST- 2016/06/22 00:00 [accepted]
+PHST- 2017/03/28 06:00 [entrez]
+PHST- 2017/03/28 06:00 [pubmed]
+PHST- 2017/03/28 06:01 [medline]
+AID - S2093-7911(16)30065-8 [pii]
+AID - 10.1016/j.shaw.2016.06.005 [doi]
+PST - ppublish
+SO  - Saf Health Work. 2017 Mar;8(1):42-48. doi: 10.1016/j.shaw.2016.06.005. Epub 2016 
+      Jul 15.

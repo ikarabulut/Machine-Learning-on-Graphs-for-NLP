@@ -1,0 +1,82 @@
+PMID- 35936211
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220809
+IS  - 2093-7911 (Print)
+IS  - 2093-7997 (Electronic)
+IS  - 2093-7911 (Linking)
+VI  - 13
+IP  - 1
+DP  - 2022 Mar
+TI  - Comparisons of Core Temperature Between a Telemetric Pill and Heart Rate 
+      Estimated Core Temperature in Firefighters.
+PG  - 99-103
+LID - 10.1016/j.shaw.2021.11.003 [doi]
+AB  - BACKGROUND: Firefighters may experience high environmental temperatures or carry 
+      out intensive physical tasks, or both, which leads to increased core body 
+      temperature and risk of fatalities. Hence there is a need to remotely and 
+      non-invasively monitor core body temperature. METHODS: Estimated (heart rate 
+      algorithm) and actual core body temperature (ingested telemetric pill) measures 
+      were collected simultaneously for comparison during training exercises on 44 
+      firefighter volunteers. RESULTS: Prediction of core body temperature varied, with 
+      no specific identifiable pattern between the algorithm values and directly 
+      measured body core temperatures. Group agreement of Lin's Concordance of 0.74 
+      (95% Upper 0.75, lower CI 0.73), was deemed poor. CONCLUSION: From individual 
+      agreement data Lin's Concordance was variable (Min 0.11, CI 0.13-0.01; Max 0.83, 
+      CI 0.86-0.80), indicating that the heart rate algorithm approach was not suitable 
+      for core body temperature monitoring in this population group, especially at the 
+      higher more critical core body temperatures seen.
+CI  - © 2021 Occupational Safety and Health Research Institute.
+FAU - Pearson, Stephen J
+AU  - Pearson SJ
+AD  - Centre for Health, Sport and Rehabilitation Sciences Research, University of 
+      Salford, Greater Manchester, UK.
+FAU - Highlands, Brian
+AU  - Highlands B
+AD  - Greater Manchester Fire and Rescue Service, UK.
+FAU - Jones, Rebecca
+AU  - Jones R
+AD  - Greater Manchester Fire and Rescue Service, UK.
+FAU - Matthews, Martyn J
+AU  - Matthews MJ
+AD  - Centre for Health, Sport and Rehabilitation Sciences Research, University of 
+      Salford, Greater Manchester, UK.
+LA  - eng
+PT  - Journal Article
+DEP - 20211126
+PL  - Korea (South)
+TA  - Saf Health Work
+JT  - Safety and health at work
+JID - 101542940
+PMC - PMC9346945
+OTO - NOTNLM
+OT  - BA, breathing apparatus
+OT  - CBT, core body temperature
+OT  - CBTest, estimated core temperature
+OT  - CBTm, actual core temperature
+OT  - CI, confidence intervals
+OT  - CT, core temperature
+OT  - Firefighter
+OT  - HR, heart rate
+OT  - Heart rate estimation
+OT  - Internal temperature
+OT  - Kalman filter
+OT  - LOA, limits of agreement
+OT  - PARQ, physical activity readiness questionnaire
+OT  - PPE, personal protective equipment
+OT  - SEM, sensor electronics module
+COIS- None.
+EDAT- 2022/08/09 06:00
+MHDA- 2022/08/09 06:01
+CRDT- 2022/08/08 03:44
+PHST- 2021/09/09 00:00 [received]
+PHST- 2021/10/26 00:00 [revised]
+PHST- 2021/11/13 00:00 [accepted]
+PHST- 2022/08/08 03:44 [entrez]
+PHST- 2022/08/09 06:00 [pubmed]
+PHST- 2022/08/09 06:01 [medline]
+AID - S2093-7911(21)00097-4 [pii]
+AID - 10.1016/j.shaw.2021.11.003 [doi]
+PST - ppublish
+SO  - Saf Health Work. 2022 Mar;13(1):99-103. doi: 10.1016/j.shaw.2021.11.003. Epub 
+      2021 Nov 26.

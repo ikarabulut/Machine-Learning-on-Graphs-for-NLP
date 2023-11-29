@@ -1,0 +1,89 @@
+PMID- 30363076
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220321
+IS  - 2093-7911 (Print)
+IS  - 2093-7997 (Electronic)
+IS  - 2093-7911 (Linking)
+VI  - 9
+IP  - 1
+DP  - 2018 Mar
+TI  - Human Error Probability Assessment During Maintenance Activities of Marine 
+      Systems.
+PG  - 42-52
+LID - 10.1016/j.shaw.2017.06.008 [doi]
+AB  - BACKGROUND: Maintenance operations on-board ships are highly demanding. 
+      Maintenance operations are intensive activities requiring high man-machine 
+      interactions in challenging and evolving conditions. The evolving conditions are 
+      weather conditions, workplace temperature, ship motion, noise and vibration, and 
+      workload and stress. For example, extreme weather condition affects seafarers' 
+      performance, increasing the chances of error, and, consequently, can cause 
+      injuries or fatalities to personnel. An effective human error probability model 
+      is required to better manage maintenance on-board ships. The developed model 
+      would assist in developing and maintaining effective risk management protocols. 
+      Thus, the objective of this study is to develop a human error probability model 
+      considering various internal and external factors affecting seafarers' 
+      performance. METHODS: The human error probability model is developed using 
+      probability theory applied to Bayesian network. The model is tested using the 
+      data received through the developed questionnaire survey of >200 experienced 
+      seafarers with >5 years of experience. The model developed in this study is used 
+      to find out the reliability of human performance on particular maintenance 
+      activities. RESULTS: The developed methodology is tested on the maintenance of 
+      marine engine's cooling water pump for engine department and anchor windlass for 
+      deck department. In the considered case studies, human error probabilities are 
+      estimated in various scenarios and the results are compared between the scenarios 
+      and the different seafarer categories. The results of the case studies for both 
+      departments are also compared. CONCLUSION: The developed model is effective in 
+      assessing human error probabilities. These probabilities would get dynamically 
+      updated as and when new information is available on changes in either internal 
+      (i.e., training, experience, and fatigue) or external (i.e., environmental and 
+      operational conditions such as weather conditions, workplace temperature, ship 
+      motion, noise and vibration, and workload and stress) factors.
+FAU - Islam, Rabiul
+AU  - Islam R
+AD  - National Centre for Maritime Engineering and Hydrodynamics (NCMEH), Australian 
+      Maritime College (AMC), University of Tasmania, Launceston, Australia.
+AD  - Centre for Risk, Integrity and Safety Engineering (C-RISE), Process Engineering 
+      Department, Memorial University of Newfoundland, St. John's, NL, Canada.
+FAU - Khan, Faisal
+AU  - Khan F
+AD  - National Centre for Maritime Engineering and Hydrodynamics (NCMEH), Australian 
+      Maritime College (AMC), University of Tasmania, Launceston, Australia.
+AD  - Centre for Risk, Integrity and Safety Engineering (C-RISE), Process Engineering 
+      Department, Memorial University of Newfoundland, St. John's, NL, Canada.
+FAU - Abbassi, Rouzbeh
+AU  - Abbassi R
+AD  - National Centre for Maritime Engineering and Hydrodynamics (NCMEH), Australian 
+      Maritime College (AMC), University of Tasmania, Launceston, Australia.
+FAU - Garaniya, Vikram
+AU  - Garaniya V
+AD  - National Centre for Maritime Engineering and Hydrodynamics (NCMEH), Australian 
+      Maritime College (AMC), University of Tasmania, Launceston, Australia.
+LA  - eng
+PT  - Journal Article
+DEP - 20170628
+PL  - Korea (South)
+TA  - Saf Health Work
+JT  - Safety and health at work
+JID - 101542940
+PMC - PMC6111134
+OTO - NOTNLM
+OT  - human error probability
+OT  - human factors
+OT  - maintenance operation
+OT  - marine system
+OT  - reliability assessment
+EDAT- 2018/10/27 06:00
+MHDA- 2018/10/27 06:01
+CRDT- 2018/10/27 06:00
+PHST- 2017/04/05 00:00 [received]
+PHST- 2017/06/07 00:00 [revised]
+PHST- 2017/06/19 00:00 [accepted]
+PHST- 2018/10/27 06:00 [entrez]
+PHST- 2018/10/27 06:00 [pubmed]
+PHST- 2018/10/27 06:01 [medline]
+AID - S2093-7911(17)30183-X [pii]
+AID - 10.1016/j.shaw.2017.06.008 [doi]
+PST - ppublish
+SO  - Saf Health Work. 2018 Mar;9(1):42-52. doi: 10.1016/j.shaw.2017.06.008. Epub 2017 
+      Jun 28.

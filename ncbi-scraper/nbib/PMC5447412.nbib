@@ -1,0 +1,71 @@
+PMID- 28593078
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20200930
+IS  - 2093-7911 (Print)
+IS  - 2093-7997 (Electronic)
+IS  - 2093-7911 (Linking)
+VI  - 8
+IP  - 2
+DP  - 2017 Jun
+TI  - Non-chemical Risk Assessment for Lifting and Low Back Pain Based on Bayesian 
+      Threshold Models.
+PG  - 206-211
+LID - 10.1016/j.shaw.2016.10.001 [doi]
+AB  - BACKGROUND: Self-reported low back pain (LBP) has been evaluated in relation to 
+      material handling lifting tasks, but little research has focused on relating 
+      quantifiable stressors to LBP at the individual level. The National Institute for 
+      Occupational Safety and Health (NIOSH) Composite Lifting Index (CLI) has been 
+      used to quantify stressors for lifting tasks. A chemical exposure can be readily 
+      used as an exposure metric or stressor for chemical risk assessment (RA). 
+      Defining and quantifying lifting nonchemical stressors and related adverse 
+      responses is more difficult. Stressor-response models appropriate for CLI and LBP 
+      associations do not easily fit in common chemical RA modeling techniques (e.g., 
+      Benchmark Dose methods), so different approaches were tried. METHODS: This work 
+      used prospective data from 138 manufacturing workers to consider the linkage of 
+      the occupational stressor of material lifting to LBP. The final model used a 
+      Bayesian random threshold approach to estimate the probability of an increase in 
+      LBP as a threshold step function. RESULTS: Using maximal and mean CLI values, a 
+      significant increase in the probability of LBP for values above 1.5 was found. 
+      CONCLUSION: A risk of LBP associated with CLI values > 1.5 existed in this worker 
+      population. The relevance for other populations requires further study.
+FAU - Pandalai, Sudha P
+AU  - Pandalai SP
+AD  - Education and Information Division, Risk Evaluation Branch, National Institute 
+      for Occupational Safety and Health, Cincinnati, OH, USA.
+FAU - Wheeler, Matthew W
+AU  - Wheeler MW
+AD  - Education and Information Division, Risk Evaluation Branch, National Institute 
+      for Occupational Safety and Health, Cincinnati, OH, USA.
+FAU - Lu, Ming-Lun
+AU  - Lu ML
+AD  - Division of Applied Research and Technology, Organizational Science and Human 
+      Factors Branch, Human Factors and Ergonomics Research Team, National Institute 
+      for Occupational Safety and Health, Cincinnati, OH, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20161109
+PL  - Korea (South)
+TA  - Saf Health Work
+JT  - Safety and health at work
+JID - 101542940
+PMC - PMC5447412
+OTO - NOTNLM
+OT  - Bayes theorem
+OT  - musculoskeletal diseases
+OT  - occupational exposure
+OT  - risk assessment
+EDAT- 2017/06/09 06:00
+MHDA- 2017/06/09 06:01
+CRDT- 2017/06/09 06:00
+PHST- 2016/06/11 00:00 [received]
+PHST- 2016/08/23 00:00 [revised]
+PHST- 2016/10/25 00:00 [accepted]
+PHST- 2017/06/09 06:00 [entrez]
+PHST- 2017/06/09 06:00 [pubmed]
+PHST- 2017/06/09 06:01 [medline]
+AID - S2093-7911(16)30224-4 [pii]
+AID - 10.1016/j.shaw.2016.10.001 [doi]
+PST - ppublish
+SO  - Saf Health Work. 2017 Jun;8(2):206-211. doi: 10.1016/j.shaw.2016.10.001. Epub 
+      2016 Nov 9.

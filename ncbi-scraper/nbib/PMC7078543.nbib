@@ -1,0 +1,71 @@
+PMID- 32206376
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220413
+IS  - 2093-7911 (Print)
+IS  - 2093-7997 (Electronic)
+IS  - 2093-7911 (Linking)
+VI  - 11
+IP  - 1
+DP  - 2020 Mar
+TI  - Development of Korean Head forms for Respirator Performance Testing.
+PG  - 71-79
+LID - 10.1016/j.shaw.2019.12.008 [doi]
+AB  - BACKGROUND: Protection from yellow dust and particulate matter is ensured by the 
+      use of respirators among the Korean citizens and workers. However, the manikins 
+      used to test the performance of the same were manufactured considering western 
+      facial specifications owing to which they do not represent Korean facial 
+      characteristics. METHODS: Analysis of the data from the 6th 3D anthropometric 
+      survey of Koreans (Size Korea; 2010-2013) of 4,583 people aged 7 to 69 years was 
+      performed to obtain their facial dimensions. We subsequently clustered 44 facial 
+      measurements using Design X software, followed by the creation of the cluster 
+      centroid. RESULTS: Three 3D head forms were developed-small, medium, and large, 
+      and their images were stored in ".stl" format for 3D printing. The facial widths 
+      and lengths of the three head forms were 127.1 mm × 90.6 mm, 143.2 mm × 104.0 mm, 
+      and 149.1 mm × 120.2 mm, respectively. CONCLUSION: We developed manikin head 
+      forms according to the facial dimensions of the Korean population, which was 
+      essential in evaluating respiratory protective equipment. These head forms can be 
+      used to test the performance of respirators considering the facial dimensions of 
+      the Korean population.
+CI  - © 2020 The Authors.
+FAU - Seo, Hyekyung
+AU  - Seo H
+AD  - Department of Public Health, Graduate School, The Catholic University of Korea, 
+      Seoul, South Korea.
+FAU - Kim, Jennifer Ivy
+AU  - Kim JI
+AD  - Department of Public Health, Graduate School, The Catholic University of Korea, 
+      Seoul, South Korea.
+FAU - Kim, Hyunwook
+AU  - Kim H
+AD  - Department of Preventive Medicine, College of Medicine, The Catholic University 
+      of Korea, Seoul, South Korea.
+LA  - eng
+PT  - Journal Article
+DEP - 20191230
+PL  - Korea (South)
+TA  - Saf Health Work
+JT  - Safety and health at work
+JID - 101542940
+PMC - PMC7078543
+OTO - NOTNLM
+OT  - 3D anthropometry
+OT  - Manikin head forms
+OT  - Particulate matter
+OT  - Respirator performance test
+OT  - Yellow dust
+COIS- All authors declare that there are no conflicts of interest.
+EDAT- 2020/03/25 06:00
+MHDA- 2020/03/25 06:01
+CRDT- 2020/03/25 06:00
+PHST- 2019/08/16 00:00 [received]
+PHST- 2019/11/12 00:00 [revised]
+PHST- 2019/12/23 00:00 [accepted]
+PHST- 2020/03/25 06:00 [entrez]
+PHST- 2020/03/25 06:00 [pubmed]
+PHST- 2020/03/25 06:01 [medline]
+AID - S2093-7911(19)30568-2 [pii]
+AID - 10.1016/j.shaw.2019.12.008 [doi]
+PST - ppublish
+SO  - Saf Health Work. 2020 Mar;11(1):71-79. doi: 10.1016/j.shaw.2019.12.008. Epub 2019 
+      Dec 30.

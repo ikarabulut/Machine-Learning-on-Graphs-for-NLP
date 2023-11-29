@@ -1,0 +1,73 @@
+PMID- 29928528
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20230926
+IS  - 2093-7911 (Print)
+IS  - 2093-7997 (Electronic)
+IS  - 2093-7911 (Linking)
+VI  - 9
+IP  - 2
+DP  - 2018 Jun
+TI  - A Method to Protect Mine Workers in Hot and Humid Environments.
+PG  - 149-158
+LID - 10.1016/j.shaw.2017.06.011 [doi]
+AB  - BACKGROUND: Work comfort studies have been extensively conducted, especially in 
+      the underground and meteorological fields resulting in an avalanche of 
+      recommendations for their evaluation. Nevertheless, no known or universally 
+      accepted model for comprehensively assessing the thermal work condition of the 
+      underground mine environment is currently available. Current literature presents 
+      several methods and techniques, but none of these can expansively assess the 
+      underground mine environment since most methods consider only one or a few 
+      defined factors and neglect others. Some are specifically formulated for the 
+      built and meteorological climates, thus making them unsuitable to accurately 
+      assess the climatic conditions in underground development and production 
+      workings. METHODS: This paper presents a series of sensitivity analyses to assess 
+      the impact of environmental parameters and metabolic rate on the thermal comfort 
+      for underground mining applications. An approach was developed in the form of a 
+      "comfort model" which applied comfort parameters to extensively assess the 
+      climatic conditions in the deep, hot, and humid underground mines. RESULTS: 
+      Simulation analysis predicted comfort limits in the form of required sweat rate 
+      and maximum skin wettedness. Tolerable worker exposure times to minimize thermal 
+      strain due to dehydration are predicted. CONCLUSION: The analysis determined the 
+      optimal air velocity for thermal comfort to be 1.5 m/s. The results also 
+      identified humidity to contribute more to deviations from thermal comfort than 
+      other comfort parameters. It is expected that this new approach will 
+      significantly help in managing heat stress issues in underground mines and thus 
+      improve productivity, safety, and health.
+FAU - Sunkpal, Maurice
+AU  - Sunkpal M
+AD  - Mining Engineering Department, University of Nevada, Reno, Nevada, USA.
+FAU - Roghanchi, Pedram
+AU  - Roghanchi P
+AD  - Mining Engineering Department, University of Nevada, Reno, Nevada, USA.
+FAU - Kocsis, Karoly C
+AU  - Kocsis KC
+AD  - Mining Engineering Department, University of Nevada, Reno, Nevada, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20170713
+PL  - Korea (South)
+TA  - Saf Health Work
+JT  - Safety and health at work
+JID - 101542940
+PMC - PMC6005930
+OTO - NOTNLM
+OT  - maximum sweat rate
+OT  - skin wettedness
+OT  - thermal comfort models
+OT  - tolerable worker exposure times
+OT  - underground mine environment
+EDAT- 2018/06/22 06:00
+MHDA- 2018/06/22 06:01
+CRDT- 2018/06/22 06:00
+PHST- 2017/01/30 00:00 [received]
+PHST- 2017/05/07 00:00 [revised]
+PHST- 2017/06/27 00:00 [accepted]
+PHST- 2018/06/22 06:00 [entrez]
+PHST- 2018/06/22 06:00 [pubmed]
+PHST- 2018/06/22 06:01 [medline]
+AID - S2093-7911(17)30056-2 [pii]
+AID - 10.1016/j.shaw.2017.06.011 [doi]
+PST - ppublish
+SO  - Saf Health Work. 2018 Jun;9(2):149-158. doi: 10.1016/j.shaw.2017.06.011. Epub 
+      2017 Jul 13.

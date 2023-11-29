@@ -1,0 +1,70 @@
+PMID- 32995058
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220417
+IS  - 2093-7911 (Print)
+IS  - 2093-7997 (Electronic)
+IS  - 2093-7911 (Linking)
+VI  - 11
+IP  - 3
+DP  - 2020 Sep
+TI  - Application of Fuzzy Logic for Predicting of Mine Fire in Underground Coal Mine.
+PG  - 322-334
+LID - 10.1016/j.shaw.2020.06.005 [doi]
+AB  - BACKGROUND: Spontaneous combustion of coal is one of the factors which causes 
+      direct or indirect gas and dust explosion, mine fire, the release of toxic gases, 
+      loss of reserve, and loss of miners' life. To avoid these incidents, the 
+      prediction of spontaneous combustion is essential. The safety of miner's in the 
+      mining field can be assured if the prediction of a coal fire is carried out at an 
+      early stage. METHOD: Adularya Underground Coal Mine which is fully mechanized 
+      with longwall mining method was selected as a case study area. The data collected 
+      for 2017, by sensors from ten gas monitoring stations were used for the 
+      simulation and prediction of a coal fire. In this study, the fuzzy logic model is 
+      used because of the uncertainties, nonlinearity, and imprecise variables in the 
+      data. For coal fire prediction, CO, O(2), N(2), and temperature were used as 
+      input variables whereas fire intensity was considered as the output variable.The 
+      simulation of the model is carried out using the Mamdani inference system and run 
+      by the Fuzzy Logic Toolbox in MATLAB. RESULTS: The results showed that the fuzzy 
+      logic system is more reliable in predicting fire intensity with respect to 
+      uncertainties and nonlinearities of the data. It also indicates that the 1409 and 
+      610/2B gas station points have a greater chance of causing spontaneous combustion 
+      and therefore require a precautional measure. CONCLUSION: The fuzzy logic model 
+      shows higher probability in predicting fire intensity with the simultaneous 
+      application of many variables compared with Graham's index.
+CI  - © 2020 The Authors.
+FAU - Danish, Esmatullah
+AU  - Danish E
+AD  - Kabul Polytechnic University, Underground Mining Engineering Department, Karte 
+      Mamorin, 5th Districts, Kabul, Afghanistan.
+FAU - Onder, Mustafa
+AU  - Onder M
+AD  - Eskisehir Osmangazi University, Mining Engineering Department, Eskisehir, 26040, 
+      Turkey.
+LA  - eng
+PT  - Journal Article
+DEP - 20200626
+PL  - Korea (South)
+TA  - Saf Health Work
+JT  - Safety and health at work
+JID - 101542940
+PMC - PMC7502667
+OTO - NOTNLM
+OT  - fire intensity
+OT  - fuzzy logic model
+OT  - mine fire prediction
+OT  - spontaneous combustion
+COIS- All authors have no conflicts of interest to declare.
+EDAT- 2020/10/01 06:00
+MHDA- 2020/10/01 06:01
+CRDT- 2020/09/30 06:13
+PHST- 2019/04/22 00:00 [received]
+PHST- 2020/05/07 00:00 [revised]
+PHST- 2020/06/17 00:00 [accepted]
+PHST- 2020/09/30 06:13 [entrez]
+PHST- 2020/10/01 06:00 [pubmed]
+PHST- 2020/10/01 06:01 [medline]
+AID - S2093-7911(20)30300-0 [pii]
+AID - 10.1016/j.shaw.2020.06.005 [doi]
+PST - ppublish
+SO  - Saf Health Work. 2020 Sep;11(3):322-334. doi: 10.1016/j.shaw.2020.06.005. Epub 
+      2020 Jun 26.
