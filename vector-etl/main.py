@@ -2,6 +2,7 @@ import boto3
 from llama_index import download_loader
 import nbib
 from llama_index.vector_stores import PineconeVectorStore
+from llama_index.storage.storage_context import StorageContext
 import pinecone
 import os
 from dotenv import load_dotenv
@@ -15,7 +16,7 @@ S3Reader = download_loader("S3Reader")
 
 bucket = "ncbi-safetyandhealth-nbib"
 key = "PMC10024226.nbib"
-pinecone_key = os.getenv['PINECONE_API_KEY']
+pinecone_key = os.getenv("PINECONE_API_KEY")
 
 # paginator = client.get_paginator('list_objects')
 # page_iterator = paginator.paginate(Bucket=bucket)
@@ -34,9 +35,15 @@ ref_abstract = refs[0]["abstract"]
 pinecone.init(api_key=pinecone_key,
               environment="gcp-starter")
 
-try:
-    pinecone.create_index("ncib-safetyandhealth-abstracts", dimension=1536,
-                          metric="cosine", pod_type="Starter")
-except Exception:
-    pass
+
+# pinecone.create_index("ncbi-safetyandhealth-abstracts", dimension=1536,
+#                       metric="cosine", pod_type="Starter")
+
 pinecone_index = pinecone.Index("ncib-safetyandhealth-abstracts")
+
+
+vector_store = PineconeVectorStore(pinecone_index=pinecone_index)
+storage_context = StorageContext.from_defaults(vector_store=vector_store)
+
+
+client = boto3.client('bedrock')
