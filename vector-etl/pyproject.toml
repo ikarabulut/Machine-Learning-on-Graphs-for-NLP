@@ -13,6 +13,7 @@ llama-index = "^0.9.9"
 boto3 = "^1.33.3"
 nbib = "^0.3.2"
 python-dotenv = "^1.0.0"
+langchain = "^0.0.343"
 
 
 [build-system]

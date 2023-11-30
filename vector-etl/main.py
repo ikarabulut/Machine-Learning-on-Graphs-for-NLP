@@ -7,6 +7,7 @@ import pinecone
 import os
 from dotenv import load_dotenv
 from awsutils import bedrock
+from langchain.embeddings import BedrockEmbeddings
 
 
 load_dotenv()
@@ -51,3 +52,13 @@ storage_context = StorageContext.from_defaults(vector_store=vector_store)
 
 bedrock_client = bedrock.get_bedrock_client(assumed_role=os.environ.get(
     "BEDROCK_ASSUME_ROLE", None), region=os.environ.get("AWS_DEFAULT_REGION", None))
+
+embeddings = BedrockEmbeddings(
+    client=bedrock_client, region_name="us-east-1", model_id="amazon.titan-embed-text-v1"
+)
+
+embedded_abstract = embeddings.embed_documents(
+    [ref_abstract]
+)
+
+print(embedded_abstract)
