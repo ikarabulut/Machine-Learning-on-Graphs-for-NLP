@@ -61,4 +61,4 @@ embedded_abstract = embeddings.embed_documents(
     [ref_abstract]
 )
 
-print(embedded_abstract)
+vector_store = PineconeVectorStore(pinecone_index=pinecone_index)
