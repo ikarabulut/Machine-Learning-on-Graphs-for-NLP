@@ -6,9 +6,12 @@ from llama_index.storage.storage_context import StorageContext
 import pinecone
 import os
 from dotenv import load_dotenv
+from awsutils import bedrock
 
 
 load_dotenv()
+os.environ["AWS_DEFAULT_REGION"] = "us-east-1"
+os.environ["AWS_PROFILE"] = "default"
 
 client = boto3.client("s3")
 S3Reader = download_loader("S3Reader")
@@ -46,4 +49,5 @@ vector_store = PineconeVectorStore(pinecone_index=pinecone_index)
 storage_context = StorageContext.from_defaults(vector_store=vector_store)
 
 
-client = boto3.client('bedrock')
+bedrock_client = bedrock.get_bedrock_client(assumed_role=os.environ.get(
+    "BEDROCK_ASSUME_ROLE", None), region=os.environ.get("AWS_DEFAULT_REGION", None))
