@@ -8,6 +8,8 @@ import os
 from dotenv import load_dotenv
 from awsutils import bedrock
 from langchain.embeddings import BedrockEmbeddings
+from langchain.llms.bedrock import Bedrock
+from langchain.vectorstores import Pinecone
 
 
 load_dotenv()
@@ -21,6 +23,7 @@ S3Reader = download_loader("S3Reader")
 bucket = "ncbi-safetyandhealth-nbib"
 key = "PMC10024226.nbib"
 pinecone_key = os.getenv("PINECONE_API_KEY")
+index_name = "ncbi-safetyandhealth-abstracts"
 
 # paginator = client.get_paginator('list_objects')
 # page_iterator = paginator.paginate(Bucket=bucket)
@@ -53,12 +56,12 @@ storage_context = StorageContext.from_defaults(vector_store=vector_store)
 bedrock_client = bedrock.get_bedrock_client(assumed_role=os.environ.get(
     "BEDROCK_ASSUME_ROLE", None), region=os.environ.get("AWS_DEFAULT_REGION", None))
 
-embeddings = BedrockEmbeddings(
+bedrock_embeddings = BedrockEmbeddings(
     client=bedrock_client, region_name="us-east-1", model_id="amazon.titan-embed-text-v1"
 )
 
-embedded_abstract = embeddings.embed_documents(
-    [ref_abstract]
+docsearch = Pinecone.from_texts(
+    [ref_abstract],
+    bedrock_embeddings,
+    index_name=index_name
 )
-
-vector_store = PineconeVectorStore(pinecone_index=pinecone_index)
