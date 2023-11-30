@@ -25,6 +25,27 @@ key = "PMC10024226.nbib"
 pinecone_key = os.getenv("PINECONE_API_KEY")
 index_name = "ncbi-safetyandhealth-abstracts"
 
+
+pinecone.init(api_key=pinecone_key,
+              environment="gcp-starter")
+
+
+pinecone.create_index("ncbi-safetyandhealth-abstracts", dimension=1536,
+                      metric="cosine", pod_type="Starter")
+
+pinecone_index = pinecone.Index("ncib-safetyandhealth-abstracts")
+
+# index.upsert([
+#     ("A", [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1],
+#      {"genre": "comedy", "year": 2020}),
+#     ("B", [0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2],
+#      {"genre": "documentary", "year": 2019}),
+#     ("C", [0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3],
+#      {"genre": "comedy", "year": 2019}),
+#     ("D", [0.4, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4], {"genre": "drama"}),
+#     ("E", [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5], {"genre": "drama"})
+# ])
+
 # paginator = client.get_paginator('list_objects')
 # page_iterator = paginator.paginate(Bucket=bucket)
 # for page in page_iterator:
@@ -37,31 +58,23 @@ loader = S3Reader(bucket=bucket, key=key)
 documents = loader.load_data()
 refs = nbib.read(documents[0].text)
 ref_abstract = refs[0]["abstract"]
+print(ref_abstract)
 
 
-pinecone.init(api_key=pinecone_key,
-              environment="gcp-starter")
-
-
-# pinecone.create_index("ncbi-safetyandhealth-abstracts", dimension=1536,
-#                       metric="cosine", pod_type="Starter")
-
-pinecone_index = pinecone.Index("ncib-safetyandhealth-abstracts")
-
-
-vector_store = PineconeVectorStore(pinecone_index=pinecone_index)
-storage_context = StorageContext.from_defaults(vector_store=vector_store)
-
-
-bedrock_client = bedrock.get_bedrock_client(assumed_role=os.environ.get(
-    "BEDROCK_ASSUME_ROLE", None), region=os.environ.get("AWS_DEFAULT_REGION", None))
-
-bedrock_embeddings = BedrockEmbeddings(
-    client=bedrock_client, region_name="us-east-1", model_id="amazon.titan-embed-text-v1"
-)
-
-docsearch = Pinecone.from_texts(
-    [ref_abstract],
-    bedrock_embeddings,
-    index_name=index_name
-)
+#
+# vector_store = PineconeVectorStore(pinecone_index=pinecone_index)
+# storage_context = StorageContext.from_defaults(vector_store=vector_store)
+#
+#
+# bedrock_client = bedrock.get_bedrock_client(assumed_role=os.environ.get(
+#     "BEDROCK_ASSUME_ROLE", None), region=os.environ.get("AWS_DEFAULT_REGION", None))
+#
+# bedrock_embeddings = BedrockEmbeddings(
+#     client=bedrock_client, region_name="us-east-1", model_id="amazon.titan-embed-text-v1"
+# )
+#
+# docsearch = Pinecone.from_texts(
+#     [ref_abstract],
+#     bedrock_embeddings,
+#     index_name=index_name
+# )
