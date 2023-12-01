@@ -4,10 +4,10 @@ from awsutils import bedrock
 
 from llama_index import VectorStoreIndex
 from llama_index.vector_stores import PineconeVectorStore
-from llama_index.storage.storage_context import StorageContext
-from llama_index import VectorStoreIndex, StorageContext
+from llama_index import VectorStoreIndex, ServiceContext
 from llama_index.indices.postprocessor import MetadataReplacementPostProcessor
 from llama_index.indices.postprocessor import SentenceTransformerRerank
+
 
 from langchain.llms import Bedrock
 from langchain.embeddings import BedrockEmbeddings
@@ -52,10 +52,13 @@ bedrock_embedding = BedrockEmbeddings(
 
 vector_store = PineconeVectorStore(pinecone_index=pinecone_index)
 
-storage_context = StorageContext.from_defaults(vector_store=vector_store)
+service_context = ServiceContext.from_defaults(
+    llm=llm,
+    embed_model=bedrock_embedding
+)
 
-
-index = VectorStoreIndex(storage_context=storage_context)
+index = VectorStoreIndex.from_vector_store(
+    vector_store=vector_store, service_context=service_context)
 
 
 def get_sentence_window_query_engine(
@@ -64,7 +67,7 @@ def get_sentence_window_query_engine(
     # define postprocessors
     postproc = MetadataReplacementPostProcessor(target_metadata_key="window")
     rerank = SentenceTransformerRerank(
-        top_n=rerank_top_n, model=bedrock_embedding
+        top_n=rerank_top_n, model="BAAI/bge-reranker-base"
     )
 
     sentence_window_engine = sentence_index.as_query_engine(
@@ -74,7 +77,7 @@ def get_sentence_window_query_engine(
     return sentence_window_engine
 
 
-sentence_query_engine = get_sentence_window_query_engine(index)
+sentence_query_engine = get_sentence_window_query_engine(sentence_index=index)
 
 response = sentence_query_engine.query(
     "What are steps to take to avoid electrocution fatalities?"
