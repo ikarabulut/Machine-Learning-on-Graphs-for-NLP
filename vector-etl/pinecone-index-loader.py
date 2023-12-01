@@ -38,12 +38,16 @@ i = 0
 for page in page_iterator:
     for obj in page['Contents']:
         loader = S3Reader(bucket=bucket, key=f"{obj['Key']}")
-        print(f"Loading {obj['Key']}")
+
         split_documents = loader.load_data()
         document = Document(text="\n\n".join(
             [doc.text for doc in split_documents]), metadata={"source": f"s3://ncbi-safetyandhealth-pdfs/{obj['Key']}"})
-        documents.append(document)
-        i = i + 1
+        if document.text != "":
+            documents.append(document)
+            print(f"Loading {obj['Key']}")
+            i = i + 1
+        else:
+            print(f"Unable to load {obj['Key']}")
 
 
 vector_store = PineconeVectorStore(pinecone_index=pinecone_index)
@@ -91,9 +95,13 @@ storage_context = StorageContext.from_defaults(vector_store=vector_store)
 
 for document in documents:
     print(f"creating embedding for {document.metadata['source']}")
-    document_index = VectorStoreIndex.from_documents(
-        [document], service_context=sentence_context, storage_context=storage_context
-    )
-    print(f"embedding created for {document.metadata['source']}")
-    i = i - 1
+    try:
+        document_index = VectorStoreIndex.from_documents(
+            [document], service_context=sentence_context, storage_context=storage_context
+        )
+        print(f"embedding created for {document.metadata['source']}")
+        i = i - 1
+    except pinecone.core.client.exceptions.ApiException:
+        print(f"Unable to embed {document.metadata['source']}")
+        i = i - 1
     print(f"{i} embeddings remain")
